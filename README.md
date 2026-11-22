@@ -139,3 +139,43 @@ La cabecera ya no tiene engranaje de configuración. **Ajustes** es el quinto de
 La pantalla de Inicio se inspira en la jerarquía de la referencia: pestañas **Favoritos / Resultados**, filtros rápidos, contador de partidos, encabezados de liga y tarjetas con escudos, estado y marcador u horario centrado. Favoritos recoge las ligas seguidas y los partidos de equipos seguidos; Resultados consulta las cuatro ligas disponibles. No incluye apuestas, cuotas, publicidad ni predicciones. La vista limita el contenido a 720 dp de ancho y lo centra en tablets para evitar tarjetas excesivamente anchas.
 
 La versión 1.3.0 (versionCode 6) compila y pasa 24 pruebas JVM. Las dimensiones y el comportamiento táctil todavía deben verificarse visualmente en el dispositivo real y emuladores del estudiante.
+
+## Actualización 1.4 · favoritos en cuadrícula
+
+En la selección de equipos, el campo de búsqueda tiene 56 dp de alto y un botón de búsqueda de 56 × 56 dp. Los equipos se muestran en tres columnas con escudo de 54 dp, nombre, liga y estrella de 54 × 54 dp; tocar la tarjeta también cambia el favorito. La lista de equipos se consulta una vez y luego se filtra en memoria para que escribir y marcar favoritos sea más rápido. Los escudos se leen del campo `logos[].href` de la respuesta cuando no hay `logo` directo. Hay 26 pruebas JVM satisfactorias, incluidas dos pruebas para los escudos.
+
+### Actualizaciones rápidas en el mismo proyecto
+
+Para esta revisión se entrega además `PulseSport-cambio-1.4.zip`, con únicamente los dos archivos Java modificados y `app/build.gradle`. Si ya tienes el proyecto abierto en Android Studio, guarda el ZIP en la raíz de la carpeta PulseSport y, en la terminal PowerShell de Android Studio, ejecuta:
+
+```powershell
+Expand-Archive -LiteralPath .\PulseSport-cambio-1.4.zip -DestinationPath . -Force
+```
+
+Después pulsa **Sync Now** si aparece y **Run** con tu móvil o emulador conectado. No necesitas abrir otro proyecto. Para cambios posteriores, un repositorio GitHub de PulseSport permitiría recibirlos con `git pull` y pulsar Run. Android Studio también dispone de Apply Changes para cambios compatibles; algunas modificaciones requieren Run completo.
+
+## Corrección 1.4.1 · búsqueda táctil
+
+La lupa de la cabecera y la del selector de equipos usan el icono de búsqueda del sistema Android dentro de controles de 56 × 56 dp. Se retiró el botón de actualización contiguo en la cabecera. El campo de búsqueda continúa filtrando los equipos mientras se escribe. Para esta corrección se entrega `PulseSport-cambio-1.4.1.zip`, que se puede expandir sobre el proyecto ya abierto.
+
+## Versión 1.5 · más torneos
+
+Se añadieron Primera B de Colombia (`col.2`), Superliga de Colombia (`col.superliga`), Copa Colombia (`col.copa`), CONMEBOL Libertadores (`conmebol.libertadores`), CONMEBOL Sudamericana (`conmebol.sudamericana`) y CONMEBOL Recopa (`conmebol.recopa`). Se agrupan en Colombia, Sudamérica, Europa y Baloncesto en la selección de ligas. Las ligas y equipos favoritos existentes conservan sus claves.
+
+La ficha de cada torneo muestra partidos recientes y próximos en una ventana de seis días, además de la tabla cuando la fuente la publica. Las copas pueden no tener una tabla de posiciones y algunos torneos juegan solo en fechas específicas; en esos casos se muestra una explicación sin inventar partidos. En Resultados se consulta inicialmente una ventana de dos días y se pueden cargar más; las ligas se consultan en paralelo, con un máximo de cuatro consultas simultáneas. En Favoritos se mantiene la ventana de seis días.
+
+Los códigos se comprobaron contra páginas de competiciones de ESPN y fuentes de referencia. Este entorno no permite llamar a `site.api.espn.com` ni ejecutar Android Studio; por eso **no se ha confirmado aquí una respuesta real de esos seis endpoints**. Se validaron la construcción de rutas, 27 pruebas JVM, compilación y firma de APK. En un teléfono con red hay que comprobar especialmente el calendario y escudos de cada nueva competición.
+
+Para actualizar el proyecto existente, guarda `PulseSport-cambio-1.5.zip` en la raíz de PulseSport y ejecuta desde la terminal PowerShell de Android Studio:
+
+```powershell
+Expand-Archive -LiteralPath .\PulseSport-cambio-1.5.zip -DestinationPath . -Force
+```
+
+Después usa Sync Now si Android Studio lo solicita y pulsa Run. Para subir el cambio a tu repositorio ya configurado:
+
+```powershell
+git add .
+git commit -m "Agrega torneos colombianos y CONMEBOL"
+git push
+```

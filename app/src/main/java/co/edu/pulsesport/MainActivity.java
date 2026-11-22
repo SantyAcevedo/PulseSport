@@ -14,6 +14,12 @@ public class MainActivity extends Activity {
  private Button button(String name,Runnable action){Button b=new Button(this);b.setAllCaps(false);b.setText(name);b.setTextColor(FG);b.setTextSize(14);b.setMinHeight(dp(48));b.setMinWidth(0);b.setMinimumWidth(0);b.setBackground(bg(CARD));b.setOnClickListener(v->action.run());return b;}
  private LinearLayout card(){LinearLayout c=vertical();c.setPadding(dp(13),dp(11),dp(13),dp(11));c.setBackground(bg(CARD));LinearLayout.LayoutParams p=new LinearLayout.LayoutParams(-1,-2);p.setMargins(0,dp(7),0,dp(7));body.addView(c,p);return c;}
  private void title(String s){TextView t=label(s,22,FG);t.setTypeface(null,Typeface.BOLD);add(body,t);}
+ private ImageButton searchControl(Runnable action){
+  ImageButton control=new ImageButton(this);control.setImageResource(android.R.drawable.ic_menu_search);
+  control.setColorFilter(BLUE);control.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
+  control.setPadding(dp(11),dp(11),dp(11),dp(11));control.setMinimumWidth(dp(56));control.setMinimumHeight(dp(56));
+  control.setBackground(bg(CARD));control.setContentDescription("Buscar equipos");control.setOnClickListener(v->action.run());return control;
+ }
  private int contentWidth(){return Math.min(dp(720),getResources().getDisplayMetrics().widthPixels-dp(32));}
  private void draw(){
   generation++;page=vertical();page.setGravity(Gravity.CENTER_HORIZONTAL);page.setBackgroundColor(BG);
@@ -21,8 +27,8 @@ public class MainActivity extends Activity {
   setContentView(page);LinearLayout header=row();header.setMinimumHeight(dp(64));
   TextView brand=label("PulseSport",26,FG);brand.setTypeface(null,Typeface.BOLD);flex(header,brand);
   if(store.onboarded()){
-   Button search=button("⌕",()->{screen="teams";draw();});search.setContentDescription("Buscar equipos");search.setTextColor(BLUE);header.addView(search);
-   Button refresh=button("↻",this::draw);refresh.setContentDescription("Actualizar pantalla");refresh.setTextColor(BLUE);header.addView(refresh);
+   ImageButton search=searchControl(()->{screen="teams";draw();});
+   LinearLayout.LayoutParams searchParams=new LinearLayout.LayoutParams(dp(56),dp(56));searchParams.leftMargin=dp(8);header.addView(search,searchParams);
   }
   page.addView(header,new LinearLayout.LayoutParams(contentWidth(),-2));
   ScrollView scroll=new ScrollView(this);scroll.setFillViewport(true);scroll.setVerticalScrollBarEnabled(false);
@@ -49,16 +55,20 @@ public class MainActivity extends Activity {
   EditText search=new EditText(this);search.setSingleLine(true);search.setTextSize(17);search.setMinHeight(dp(56));search.setHint("Buscar equipo");
   search.setTextColor(FG);search.setHintTextColor(DIM);search.setBackgroundColor(android.graphics.Color.TRANSPARENT);
   search.setInputType(android.text.InputType.TYPE_CLASS_TEXT);flex(searchRow,search);
-  Button find=button("⌕",()->{search.requestFocus();((android.view.inputmethod.InputMethodManager)getSystemService(INPUT_METHOD_SERVICE)).showSoftInput(search,android.view.inputmethod.InputMethodManager.SHOW_IMPLICIT);});
-  find.setTextSize(26);find.setMinWidth(dp(56));find.setContentDescription("Buscar equipo por nombre");searchRow.addView(find,new LinearLayout.LayoutParams(dp(56),dp(56)));add(body,searchRow);
+  ImageButton find=searchControl(()->{search.requestFocus();((android.view.inputmethod.InputMethodManager)getSystemService(INPUT_METHOD_SERVICE)).showSoftInput(search,android.view.inputmethod.InputMethodManager.SHOW_IMPLICIT);});
+  find.setBackgroundColor(android.graphics.Color.TRANSPARENT);find.setContentDescription("Buscar equipo por nombre");searchRow.addView(find,new LinearLayout.LayoutParams(dp(56),dp(56)));add(body,searchRow);
   LinearLayout choices=vertical();add(body,choices);add(choices,label("Cargando equipos y escudos…",14,DIM));
   int token=generation;io.execute(()->{List<Object[]> entries=new ArrayList<>();List<String> errors=new ArrayList<>();
-   for(League l:League.values())try{
-    JSONObject data=api.teams(l).json();JSONArray teams=data.getJSONArray("sports").getJSONObject(0).getJSONArray("leagues").getJSONObject(0).getJSONArray("teams");
+   ExecutorService workers=Executors.newFixedThreadPool(4);List<Future<List<Object[]>>> jobs=new ArrayList<>();
+   for(League l:League.values())jobs.add(workers.submit(()->{
+    List<Object[]> found=new ArrayList<>();JSONObject data=api.teams(l).json();
+    JSONArray teams=data.getJSONArray("sports").getJSONObject(0).getJSONArray("leagues").getJSONObject(0).getJSONArray("teams");
     for(int i=0;i<teams.length();i++){JSONObject t=teams.getJSONObject(i).getJSONObject("team");
-     entries.add(new Object[]{l,new Models.Team(t.optString("id"),t.optString("displayName","Equipo"),"",Models.logo(t))});}
-   }catch(Exception e){errors.add(l.title);}
-   main.post(()->{if(token!=generation)return;
+     found.add(new Object[]{l,new Models.Team(t.optString("id"),t.optString("displayName","Equipo"),"",Models.logo(t))});}
+    return found;
+   }));
+   int index=0;for(League l:League.values())try{entries.addAll(jobs.get(index++).get());}catch(Exception e){errors.add(l.title);}
+   workers.shutdownNow();main.post(()->{if(token!=generation)return;
     String[] popular={"Real Madrid","Barcelona","Manchester City","Arsenal","Liverpool","Los Angeles Lakers","Golden State Warriors","Millonarios","Atlético Nacional"};
     entries.sort((a,b)->{Models.Team x=(Models.Team)a[1],y=(Models.Team)b[1];int priority=Boolean.compare(isPopular(y.name(),popular),isPopular(x.name(),popular));return priority!=0?priority:x.name().compareToIgnoreCase(y.name());});
     Runnable render=()->renderTeams(choices,entries,search.getText().toString(),errors);
@@ -92,7 +102,16 @@ public class MainActivity extends Activity {
  }
  private boolean isPopular(String s,String[] names){for(String x:names)if(s.equalsIgnoreCase(x))return true;return false;}
  private ImageView crest(String url){ImageView image=new ImageView(this);image.setLayoutParams(new LinearLayout.LayoutParams(dp(44),dp(44)));image.setScaleType(ImageView.ScaleType.FIT_CENTER);Crest.into(this,image,url);return image;}
- private void leaguePicker(boolean ignored){title(store.onboarded()?"Ligas favoritas":"2 de 2 · Elige tus ligas");add(body,label("Los partidos de estas ligas aparecerán primero en Inicio.",15,DIM));for(League l:League.values()){LinearLayout c=card();add(c,button((store.follows(l)?"★  ":"☆  ")+l.title+" · "+l.sport,()->{store.toggleLeague(l);draw();}));add(c,button("Ver liga y tabla →",()->{selectedLeague=l;screen="league";draw();}));}if(!store.onboarded())add(page,button("Terminar y ver partidos →",()->{store.completeOnboarding();screen="home";draw();}));}
+ private void leaguePicker(boolean ignored){
+  title(store.onboarded()?"Ligas favoritas":"2 de 2 · Elige tus ligas");
+  add(body,label("Sigue tus competiciones para verlas en Inicio y recibir alertas durante el seguimiento.",14,DIM));
+  String group="";for(League l:League.values()){
+   if(!l.group.equals(group)){group=l.group;TextView heading=label(group,16,BLUE);heading.setTypeface(null,Typeface.BOLD);add(body,heading);}
+   LinearLayout c=card();add(c,button((store.follows(l)?"★  ":"☆  ")+l.title,()->{store.toggleLeague(l);draw();}));
+   add(c,button("Ver partidos y ficha →",()->{selectedLeague=l;screen="league";draw();}));
+  }
+  if(!store.onboarded())add(page,button("Terminar y ver partidos →",()->{store.completeOnboarding();screen="home";draw();}));
+ }
  private String shortDate(String raw){try{return Instant.parse(raw).atZone(ZoneId.systemDefault()).format(DateTimeFormatter.ofPattern("EEE d MMM · HH:mm",new Locale("es","CO")));}catch(Exception e){return raw;}}
  private void filters(){
   LinearLayout tabs=row();for(String name:new String[]{"Favoritos","Resultados"}){
@@ -118,15 +137,24 @@ public class MainActivity extends Activity {
    add(body,label("Elige equipos o ligas para crear tu portada.",16,DIM));add(body,button("＋ Agregar favoritos",()->{screen="favorites";draw();}));return;
   }
   LinearLayout results=vertical();add(body,results);add(results,label("Consultando partidos…",14,DIM));
-  LocalDate start=LocalDate.now().plusDays(week*6);int token=generation;
+  final boolean allLeagues=homeTab.equals("Resultados");final int daysToShow=allLeagues?2:6;
+  LocalDate start=LocalDate.now().plusDays(week*daysToShow);int token=generation;
   io.execute(()->{List<Object[]> all=new ArrayList<>();List<String> failures=new ArrayList<>();
-   for(League l:League.values())if(homeTab.equals("Resultados")||store.follows(l)||hasFavoriteTeam(l))try{
-    String days=start.format(DateTimeFormatter.BASIC_ISO_DATE)+"-"+start.plusDays(2).format(DateTimeFormatter.BASIC_ISO_DATE);
-    String later=start.plusDays(3).format(DateTimeFormatter.BASIC_ISO_DATE)+"-"+start.plusDays(5).format(DateTimeFormatter.BASIC_ISO_DATE);
-    for(String range:new String[]{days,later})for(Models.Match m:Models.matches(api.scores(l,range,false).json())){
-     if(homeTab.equals("Resultados")||followsMatch(l,m))all.add(new Object[]{l,m});
-    }
-   }catch(Exception e){failures.add(l.title+": "+DataErrors.describe(e));}
+   ExecutorService workers=Executors.newFixedThreadPool(4);List<League> requested=new ArrayList<>();List<Future<List<Object[]>>> jobs=new ArrayList<>();
+   for(League l:League.values())if(allLeagues||store.follows(l)||hasFavoriteTeam(l)){
+    requested.add(l);jobs.add(workers.submit(()->{
+     List<Object[]> found=new ArrayList<>();
+     for(int offset=0;offset<daysToShow;offset+=3){
+      String from=start.plusDays(offset).format(DateTimeFormatter.BASIC_ISO_DATE);
+      String to=start.plusDays(Math.min(offset+2,daysToShow-1)).format(DateTimeFormatter.BASIC_ISO_DATE);
+      for(Models.Match m:Models.matches(api.scores(l,from+"-"+to,false).json()))
+       if(allLeagues||followsMatch(l,m))found.add(new Object[]{l,m});
+     }return found;
+    }));
+   }
+   for(int i=0;i<jobs.size();i++)try{all.addAll(jobs.get(i).get());}
+   catch(Exception e){failures.add(requested.get(i).title+": "+DataErrors.describe(e));}
+   workers.shutdownNow();
    main.post(()->{if(token!=generation)return;results.removeAllViews();
     if(!failures.isEmpty())add(results,label(String.join(" · ",failures),13,DIM));
     all.sort((a,b)->{Models.Match x=(Models.Match)a[1],y=(Models.Match)b[1];int c=Boolean.compare(y.live(),x.live());if(c!=0)return c;
@@ -213,7 +241,26 @@ public class MainActivity extends Activity {
  }
  private void teamProfile(){Models.Team t=selectedTeam;if(t==null){screen="home";draw();return;}add(body,button("← Volver",()->{screen="match";draw();}));LinearLayout head=row();head.addView(crest(t.logo()));flex(head,label(t.name(),22,FG));add(body,head);add(body,button(store.favorite(league,t.id())?"★ Siguiendo":"☆ Seguir equipo",()->{store.toggle(league,t);draw();}));add(body,label("Datos de "+league.title+" · fuente ESPN",14,DIM));async(()->new Object[]{api.team(league,t.id()),api.schedule(league,t.id()),api.standings(league,false)},res->{Object[] data=(Object[])res;JSONObject team=((Repository.Result)data[0]).json().optJSONObject("team");if(team!=null){for(String key:new String[]{"location","abbreviation","venue"}){Object x=team.opt(key);if(x!=null)add(body,label(key+": "+(x instanceof JSONObject?((JSONObject)x).optString("fullName",""):x),14,DIM));}}
   title("Posición en "+league.title);try{for(Models.Standing s:Models.standings(((Repository.Result)data[2]).json()))if(s.team().equalsIgnoreCase(t.name()))add(body,label(s.group()+" · posición "+s.rank()+" · PJ "+s.played(),15,GREEN));}catch(Exception ignored){}title("Partidos anteriores y siguientes");try{List<Models.Match> games=Models.matches(((Repository.Result)data[1]).json());games.sort(Comparator.comparing(Models.Match::date));int count=0;for(Models.Match game:games)if(count++<30)matchCard(league,game);}catch(Exception e){add(body,label("Calendario no disponible.",14,DIM));}add(body,label("Títulos y goleadores: la fuente consultada no ofrece un historial completo y verificable para esta ficha.",14,DIM));});}
- private void leagueProfile(){League l=selectedLeague;add(body,button("← Volver",()->{screen="home";draw();}));title(l.title);add(body,label(l.sport+" · fuente ESPN",14,DIM));add(body,button(store.follows(l)?"★ Quitar de favoritas":"☆ Agregar a favoritas",()->{store.toggleLeague(l);draw();}));async(()->api.standings(l,false),res->{title("Tabla actual");try{standingsTable(Models.standings(((Repository.Result)res).json()));}catch(Exception e){add(body,label("Tabla no disponible.",14,DIM));}title("Historia y curiosidades");add(body,label("Campeones históricos, palmarés y goleador: datos no disponibles de forma verificable en esta fuente para todas las temporadas.",14,DIM));});}
+ private void leagueProfile(){
+  League l=selectedLeague;add(body,button("← Volver",()->{screen="home";draw();}));
+  title(l.title);add(body,label(l.group+" · "+l.sport+" · datos de ESPN",14,DIM));
+  add(body,button(store.follows(l)?"★ Quitar de favoritas":"☆ Agregar a favoritas",()->{store.toggleLeague(l);draw();}));
+  title("Partidos recientes y próximos");LinearLayout gamesBlock=vertical();add(body,gamesBlock);add(gamesBlock,label("Consultando calendario…",14,DIM));
+  async(()->{List<Models.Match> games=new ArrayList<>();LocalDate day=LocalDate.now().minusDays(2);
+   for(int offset=0;offset<6;offset+=3){String range=day.plusDays(offset).format(DateTimeFormatter.BASIC_ISO_DATE)+"-"+day.plusDays(offset+2).format(DateTimeFormatter.BASIC_ISO_DATE);
+    games.addAll(Models.matches(api.scores(l,range,false).json()));}
+   games.sort(Comparator.comparing(Models.Match::date));return games;
+  },res->{gamesBlock.removeAllViews();List<?> games=(List<?>)res;
+   if(games.isEmpty())add(gamesBlock,label("No hay partidos publicados en estos días. Algunas copas juegan solo en fechas concretas.",14,DIM));
+   for(Object item:games)matchCard(gamesBlock,l,(Models.Match)item);
+  });
+  async(()->{try{return Models.standings(api.standings(l,false).json());}catch(Exception e){return Collections.<Models.Standing>emptyList();}},res->{
+   title("Tabla actual");List<?> rows=(List<?>)res;
+   if(rows.isEmpty())add(body,label("Esta competición no publica una tabla disponible en la fuente actual.",14,DIM));
+   else {List<Models.Standing> standings=new ArrayList<>();for(Object row:rows)standings.add((Models.Standing)row);standingsTable(standings);}
+   title("Historia y curiosidades");add(body,label("El historial completo de campeones y goleadores no está disponible de manera uniforme en esta fuente.",14,DIM));
+  });
+ }
  private void settings(){
   title("Configuración");add(body,label("Personaliza tus deportes y controla las notificaciones.",14,DIM));
   title("Tus favoritos");add(body,button("★  Editar equipos favoritos  →",()->{screen="teams";draw();}));
@@ -222,7 +269,7 @@ public class MainActivity extends Activity {
   add(body,button(active?"●  Detener seguimiento":"○  Activar seguimiento (2 horas)",this::alerts));
   add(body,label(active?"Sesión de seguimiento activa.":"Activa el seguimiento para recibir los eventos disponibles de tus favoritos.",14,active?GREEN:DIM));
   add(body,label("Las alertas dependen de la cobertura de cada partido, la conexión y las restricciones de Android.",13,DIM));
-  title("Acerca de");add(body,label("PulseSport 1.4.0 · datos deportivos públicos de ESPN.",13,DIM));
+  title("Acerca de");add(body,label("PulseSport 1.5.0 · datos deportivos públicos de ESPN.",13,DIM));
  }
  private void alerts(){if(store.trackingUntil()>System.currentTimeMillis()){stopService(new Intent(this,TrackingService.class));store.trackingUntil(0);draw();return;}if(android.os.Build.VERSION.SDK_INT>=33&&checkSelfPermission(Manifest.permission.POST_NOTIFICATIONS)!=PackageManager.PERMISSION_GRANTED){requestPermissions(new String[]{Manifest.permission.POST_NOTIFICATIONS},101);return;}try{startForegroundService(new Intent(this,TrackingService.class));Toast.makeText(this,"Seguimiento iniciado",Toast.LENGTH_SHORT).show();}catch(Exception e){Toast.makeText(this,"No se pudo iniciar el seguimiento",Toast.LENGTH_LONG).show();}}
  @Override public void onRequestPermissionsResult(int request,String[] p,int[] grants){super.onRequestPermissionsResult(request,p,grants);if(request==101&&grants.length>0&&grants[0]==PackageManager.PERMISSION_GRANTED)alerts();}

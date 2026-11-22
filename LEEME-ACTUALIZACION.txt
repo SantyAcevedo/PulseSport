@@ -1,3 +1,2 @@
-Guarda este ZIP en la carpeta PulseSport ya abierta en Android Studio. En la terminal PowerShell de Android Studio ejecuta:
-Expand-Archive -LiteralPath .\PulseSport-cambio-1.4.zip -DestinationPath . -Force
-Luego pulsa Sync Now si aparece y Run en el dispositivo conectado.
+En la raíz PulseSport, ejecuta en PowerShell: Expand-Archive -LiteralPath .\PulseSport-cambio-1.5.zip -DestinationPath . -Force
+Después pulsa Sync Now si aparece y Run. Para GitHub: git add .; git commit -m "Agrega torneos colombianos y CONMEBOL"; git push

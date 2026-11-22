@@ -64,3 +64,24 @@ La versión 1.1 redirigía a la selección de equipos en cada redibujo mientras 
 - Completado: Inicio con pestañas Favoritos y Resultados, filtros, contador, ligas y tarjetas centradas. Ancho del contenido limitado a 720 dp para tablets. Ninguna sección de apuestas.
 - Verificado: compilación de APK versionCode 6, firma validada y 24 pruebas JVM correctas.
 - Pendiente: capturas y prueba de interacción en tablet, tres emuladores y teléfono físico; GitHub.
+
+## Favoritos 1.4.0
+
+- Completado: búsqueda táctil de 56 dp, cuadrícula de tres equipos, escudos de 54 dp y estrella de 54 dp.
+- Corregido: uso de `team.logos[].href` si el API no devuelve `team.logo`.
+- Completado: búsqueda local tras una sola consulta de equipos; ZIP pequeño de actualización sobre el proyecto abierto.
+- Verificado: APK versionCode 7 firmada y 26 pruebas JVM. Pendiente de comprobar escudos en red y la distribución visual en dispositivo físico.
+
+## Corrección 1.4.1
+
+- Lupa de cabecera y selector reemplazada por icono nativo visible con superficie táctil de 56 × 56 dp.
+- Retirado el botón de actualización contiguo de la cabecera.
+- APK versionCode 8 compilada y firmada; 26 pruebas JVM satisfactorias. Pendiente: comprobar tamaño y pulsación en móvil real.
+
+## Torneos 1.5.0
+
+- Agregados: Primera B, Superliga y Copa Colombia; Libertadores, Sudamericana y Recopa.
+- Agrupación de ligas; calendario reciente y próximo en la ficha de competición; mensaje cuando no hay tabla.
+- Optimizado: Resultados carga dos días por página y hasta cuatro ligas simultáneas; equipos y Favoritos mantienen sus rutas.
+- Verificado: 27 pruebas JVM, compilación y firma de APK versionCode 9.
+- Pendiente: comprobar respuestas de los seis endpoints en teléfono con conexión, tres emuladores y repositorio GitHub real.

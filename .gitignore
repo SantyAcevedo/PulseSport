@@ -7,3 +7,6 @@ local.properties
 *.keystore
 captures/
 .DS_Store
+
+# Actualizaciones descargadas en la raíz del proyecto
+PulseSport-cambio-*.zip

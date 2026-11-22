@@ -16,6 +16,16 @@ public class ScoreboardQueryTest {
    assertFalse("ESPN rechaza intervalos en dates",uri.getQuery().contains("-"));
   }
  }
+ @Test public void addedTournamentCodesProduceScoreboardUrls(){
+  Map<League,String> codes=new LinkedHashMap<>();
+  codes.put(League.COLOMBIA_B,"col.2");codes.put(League.SUPERLIGA_COLOMBIA,"col.superliga");
+  codes.put(League.COPA_COLOMBIA,"col.copa");codes.put(League.LIBERTADORES,"conmebol.libertadores");
+  codes.put(League.SUDAMERICANA,"conmebol.sudamericana");codes.put(League.RECOPA,"conmebol.recopa");
+  for(Map.Entry<League,String> entry:codes.entrySet()){
+   assertEquals("soccer/"+entry.getValue(),entry.getKey().path());
+   assertTrue(ScoreboardQuery.urls(entry.getKey(),"20261121").get(0).contains("/soccer/"+entry.getValue()+"/scoreboard?dates=20261121"));
+  }
+ }
  @Test public void singleDayRemainsSingleRequest(){assertEquals(1,ScoreboardQuery.urls(League.NBA,"20261121").size());}
  @Test public void midnightWindowCanCrossTheYear(){List<String> urls=ScoreboardQuery.urls(League.NBA,"20261231-20270102");assertEquals(3,urls.size());assertTrue(urls.get(1).contains("dates=20270101&"));}
  @Test(expected=IllegalArgumentException.class) public void reversedWindowIsRejected(){ScoreboardQuery.urls(League.PREMIER,"20261122-20261120");}
