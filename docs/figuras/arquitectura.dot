@@ -1,0 +1,7 @@
+digraph G {graph [rankdir=TB,bgcolor="white",dpi=155];node [shape=box,style="rounded,filled",fillcolor="#eef3f7",color="#607080",fontname="DejaVu Sans",fontsize=12]; ui [label="Presentación nativa
+MainActivity y vistas Android"];repo [label="Datos
+Repository y Models"];net [label="ESPN por HTTPS
+Scoreboard, standings y summary"];cache [label="Caché JSON
+Almacenamiento privado"];store [label="Store
+Favoritos y ajustes locales"];service [label="TrackingService
+Sesión y ScoreChanges"];notify [label="Notificaciones de Android"];ui->repo [label="consulta"];repo->net;repo->cache [dir=both];ui->store [dir=both];ui->service [label="inicia o detiene"];service->store;service->repo;service->notify;}

@@ -1,0 +1,3 @@
+Guarda este ZIP en la carpeta PulseSport ya abierta en Android Studio. En la terminal PowerShell de Android Studio ejecuta:
+Expand-Archive -LiteralPath .\PulseSport-cambio-1.4.zip -DestinationPath . -Force
+Luego pulsa Sync Now si aparece y Run en el dispositivo conectado.

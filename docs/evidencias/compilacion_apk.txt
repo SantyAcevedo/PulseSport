@@ -1,0 +1,4 @@
+Versión 1.1.1 · versionCode 4
+APK compilado con herramientas Android SDK 35. Firma v2 y v3 comprobada.
+24 pruebas JVM aprobadas. Navegación visual pendiente de comprobar en dispositivo.
+SHA256 544190f091612eb5d72abfe19555ed791e9459fbbe572266a32b935e9818353c

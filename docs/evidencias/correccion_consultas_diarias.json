@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261120&limit=100",
+    "http": 200,
+    "partidos": 0,
+    "utc": "2026-11-21T23:02:40.723070+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261121&limit=100",
+    "http": 200,
+    "partidos": 7,
+    "utc": "2026-11-21T23:02:40.756465+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261122&limit=100",
+    "http": 200,
+    "partidos": 2,
+    "utc": "2026-11-21T23:02:40.782679+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261120&limit=100",
+    "http": 200,
+    "partidos": 1,
+    "utc": "2026-11-21T23:02:40.822764+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121&limit=100",
+    "http": 200,
+    "partidos": 4,
+    "utc": "2026-11-21T23:02:43.971760+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261122&limit=100",
+    "http": 200,
+    "partidos": 4,
+    "utc": "2026-11-21T23:02:43.994623+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard?dates=20261120&limit=100",
+    "http": 200,
+    "partidos": 3,
+    "utc": "2026-11-21T23:02:44.038436+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard?dates=20261121&limit=100",
+    "http": 200,
+    "partidos": 1,
+    "utc": "2026-11-21T23:02:44.030276+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard?dates=20261122&limit=100",
+    "http": 200,
+    "partidos": 0,
+    "utc": "2026-11-21T23:02:47.447767+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=100",
+    "http": 200,
+    "partidos": 9,
+    "utc": "2026-11-21T23:02:47.359928+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=100",
+    "http": 200,
+    "partidos": 6,
+    "utc": "2026-11-21T23:02:47.373017+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=100",
+    "http": 200,
+    "partidos": 7,
+    "utc": "2026-11-21T23:02:47.408113+00:00"
+  }
+]
