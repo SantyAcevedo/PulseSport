@@ -1,0 +1,1304 @@
+[
+  {
+    "team": "Alianza FC",
+    "key": "soccer:9761",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "América de Cali",
+    "key": "soccer:8109",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Atlético Bucaramanga",
+    "key": "soccer:6137",
+    "stadiumPhoto": "local",
+    "profile": "official",
+    "titles": "official"
+  },
+  {
+    "team": "Atlético Junior",
+    "key": "soccer:4815",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Atlético Nacional",
+    "key": "soccer:5264",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Boyacá Chicó FC",
+    "key": "soccer:5480",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Cúcuta Deportivo",
+    "key": "soccer:6101",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Deportes Tolima",
+    "key": "soccer:5489",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Deportivo Cali",
+    "key": "soccer:2672",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Deportivo Pasto",
+    "key": "soccer:5485",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Deportivo Pereira",
+    "key": "soccer:5486",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Fortaleza CEIF",
+    "key": "soccer:4928",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Independiente Medellín",
+    "key": "soccer:2690",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Independiente Santa Fe",
+    "key": "soccer:5488",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "official competition history"
+  },
+  {
+    "team": "Internacional de Bogotá",
+    "key": "soccer:7445",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Jaguares de Córdoba",
+    "key": "soccer:10309",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Llaneros FC",
+    "key": "soccer:7915",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Millonarios",
+    "key": "soccer:5484",
+    "stadiumPhoto": "url checked",
+    "profile": "official",
+    "titles": "official"
+  },
+  {
+    "team": "Once Caldas",
+    "key": "soccer:2919",
+    "stadiumPhoto": "local",
+    "profile": "official",
+    "titles": "official"
+  },
+  {
+    "team": "Águilas Doradas",
+    "key": "soccer:9762",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Atlético FC",
+    "key": "soccer:17370",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Barranquilla FC",
+    "key": "soccer:17373",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Boca Juniors de Cali",
+    "key": "soccer:17372",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Bogotá FC",
+    "key": "soccer:17371",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportes Quindío",
+    "key": "soccer:5487",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Envigado FC",
+    "key": "soccer:5481",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Independiente Yumbo",
+    "key": "soccer:131659",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Inter Palmira",
+    "key": "soccer:22184",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Itagüí Leones",
+    "key": "soccer:9769",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Orsomarso SC",
+    "key": "soccer:18156",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Patriotas",
+    "key": "soccer:9773",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Real Cartagena",
+    "key": "soccer:5479",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Real Cundinamarca",
+    "key": "soccer:21967",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Real Santander",
+    "key": "soccer:9774",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Tigres FC",
+    "key": "soccer:9770",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Unión Magdalena",
+    "key": "soccer:17374",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "2 de Mayo",
+    "key": "soccer:6097",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Always Ready",
+    "key": "soccer:19425",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Argentinos Juniors",
+    "key": "soccer:3",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Bahia",
+    "key": "soccer:9967",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Barcelona SC",
+    "key": "soccer:2686",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Boca Juniors",
+    "key": "soccer:5",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Bolívar",
+    "key": "soccer:2681",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Botafogo",
+    "key": "soccer:6086",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Carabobo",
+    "key": "soccer:6037",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Cerro Porteño",
+    "key": "soccer:2671",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Coquimbo Unido",
+    "key": "soccer:8186",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Corinthians",
+    "key": "soccer:874",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Cruzeiro",
+    "key": "soccer:2022",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Cusco FC",
+    "key": "soccer:11995",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportivo La Guaira",
+    "key": "soccer:17090",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportivo Táchira",
+    "key": "soccer:4818",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Estudiantes de La Plata",
+    "key": "soccer:8",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Flamengo",
+    "key": "soccer:819",
+    "stadiumPhoto": "url checked",
+    "profile": "identity matched",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Fluminense",
+    "key": "soccer:3445",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Guaraní",
+    "key": "soccer:7385",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Huachipato",
+    "key": "soccer:4134",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Independiente Rivadavia",
+    "key": "soccer:9744",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Independiente del Valle",
+    "key": "soccer:17086",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Juventud",
+    "key": "soccer:8416",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Lanús",
+    "key": "soccer:12",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Libertad",
+    "key": "soccer:2670",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Liga de Quito",
+    "key": "soccer:4816",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Liverpool",
+    "key": "soccer:5492",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Mirassol",
+    "key": "soccer:9169",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Nacional",
+    "key": "soccer:2684",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Nacional Potosí",
+    "key": "soccer:10311",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "O'Higgins",
+    "key": "soccer:6072",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Palmeiras",
+    "key": "soccer:2029",
+    "stadiumPhoto": "local",
+    "profile": "official",
+    "titles": "official"
+  },
+  {
+    "team": "Peñarol",
+    "key": "soccer:2683",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Platense",
+    "key": "soccer:7764",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Rosario Central",
+    "key": "soccer:17",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Sporting Cristal",
+    "key": "soccer:2673",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "UCV FC",
+    "key": "soccer:10094",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Universidad Católica",
+    "key": "soccer:885",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Universitario",
+    "key": "soccer:2685",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Academia Puerto Cabello",
+    "key": "soccer:18995",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Alianza Atlético",
+    "key": "soccer:5267",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Atlético-MG",
+    "key": "soccer:7632",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Audax Italiano",
+    "key": "soccer:4138",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Barracas Central",
+    "key": "soccer:10060",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Blooming",
+    "key": "soccer:6047",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Boston River",
+    "key": "soccer:9999",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Caracas FC",
+    "key": "soccer:4811",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Cienciano del Cusco",
+    "key": "soccer:3372",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Club Olimpia",
+    "key": "soccer:2675",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Cobresal",
+    "key": "soccer:4133",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Defensor Sporting",
+    "key": "soccer:1007",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportivo Cuenca",
+    "key": "soccer:4812",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportivo Garcilaso",
+    "key": "soccer:21819",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportivo Recoleta",
+    "key": "soccer:22517",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportivo Riestra",
+    "key": "soccer:17702",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Grêmio",
+    "key": "soccer:6273",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Guabirá",
+    "key": "soccer:9497",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Independiente Petrolero",
+    "key": "soccer:20889",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Libertad (Ecuador)",
+    "key": "soccer:21843",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Macará",
+    "key": "soccer:18439",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Melgar",
+    "key": "soccer:7312",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Metropolitanos",
+    "key": "soccer:13481",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Monagas SC",
+    "key": "soccer:6041",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Montevideo City Torque",
+    "key": "soccer:19002",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Nacional Asunción",
+    "key": "soccer:5584",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Orense",
+    "key": "soccer:20695",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Palestino",
+    "key": "soccer:4422",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Racing (Montevideo)",
+    "key": "soccer:9903",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Racing Club",
+    "key": "soccer:15",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Red Bull Bragantino",
+    "key": "soccer:6079",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "River Plate",
+    "key": "soccer:16",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "San Antonio Bulo Bulo",
+    "key": "soccer:22137",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "San Lorenzo",
+    "key": "soccer:18",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Santos",
+    "key": "soccer:2674",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Sportivo Trinidense",
+    "key": "soccer:7466",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "São Paulo",
+    "key": "soccer:2026",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "Tigre",
+    "key": "soccer:7767",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Universidad de Chile",
+    "key": "soccer:4139",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Vasco da Gama",
+    "key": "soccer:3454",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "continental titles verified"
+  },
+  {
+    "team": "AFC Bournemouth",
+    "key": "soccer:349",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Arsenal",
+    "key": "soccer:359",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Aston Villa",
+    "key": "soccer:362",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Brentford",
+    "key": "soccer:337",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Brighton & Hove Albion",
+    "key": "soccer:331",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Chelsea",
+    "key": "soccer:363",
+    "stadiumPhoto": "local",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Coventry City",
+    "key": "soccer:388",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Crystal Palace",
+    "key": "soccer:384",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Everton",
+    "key": "soccer:368",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Fulham",
+    "key": "soccer:370",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Hull City",
+    "key": "soccer:306",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Ipswich Town",
+    "key": "soccer:373",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Leeds United",
+    "key": "soccer:357",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Liverpool",
+    "key": "soccer:364",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Manchester City",
+    "key": "soccer:382",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Manchester United",
+    "key": "soccer:360",
+    "stadiumPhoto": "url checked",
+    "profile": "identity matched",
+    "titles": "published claims"
+  },
+  {
+    "team": "Newcastle United",
+    "key": "soccer:361",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Nottingham Forest",
+    "key": "soccer:393",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Sunderland",
+    "key": "soccer:366",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "key": "soccer:367",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Alavés",
+    "key": "soccer:96",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Athletic Club",
+    "key": "soccer:93",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Atlético Madrid",
+    "key": "soccer:1068",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Barcelona",
+    "key": "soccer:83",
+    "stadiumPhoto": "url checked",
+    "profile": "official",
+    "titles": "official"
+  },
+  {
+    "team": "Celta Vigo",
+    "key": "soccer:85",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Deportivo",
+    "key": "soccer:90",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Elche",
+    "key": "soccer:3751",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Espanyol",
+    "key": "soccer:88",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Getafe",
+    "key": "soccer:2922",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Levante",
+    "key": "soccer:1538",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Málaga",
+    "key": "soccer:99",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Osasuna",
+    "key": "soccer:97",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Racing Santander",
+    "key": "soccer:87",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Rayo Vallecano",
+    "key": "soccer:101",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Real Betis",
+    "key": "soccer:244",
+    "stadiumPhoto": "pending",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Real Madrid",
+    "key": "soccer:86",
+    "stadiumPhoto": "local",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Real Sociedad",
+    "key": "soccer:89",
+    "stadiumPhoto": "url checked",
+    "profile": "identity matched",
+    "titles": "pending"
+  },
+  {
+    "team": "Sevilla",
+    "key": "soccer:243",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Valencia",
+    "key": "soccer:94",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Villarreal",
+    "key": "soccer:102",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "pending"
+  },
+  {
+    "team": "Atlanta Hawks",
+    "key": "basketball:1",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Boston Celtics",
+    "key": "basketball:2",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Brooklyn Nets",
+    "key": "basketball:17",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Charlotte Hornets",
+    "key": "basketball:30",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Chicago Bulls",
+    "key": "basketball:4",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Cleveland Cavaliers",
+    "key": "basketball:5",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Dallas Mavericks",
+    "key": "basketball:6",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Denver Nuggets",
+    "key": "basketball:7",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Detroit Pistons",
+    "key": "basketball:8",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Golden State Warriors",
+    "key": "basketball:9",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Houston Rockets",
+    "key": "basketball:10",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Indiana Pacers",
+    "key": "basketball:11",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "LA Clippers",
+    "key": "basketball:12",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Los Angeles Lakers",
+    "key": "basketball:13",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Memphis Grizzlies",
+    "key": "basketball:29",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Miami Heat",
+    "key": "basketball:14",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Milwaukee Bucks",
+    "key": "basketball:15",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Minnesota Timberwolves",
+    "key": "basketball:16",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "New Orleans Pelicans",
+    "key": "basketball:3",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "New York Knicks",
+    "key": "basketball:18",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Oklahoma City Thunder",
+    "key": "basketball:25",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Orlando Magic",
+    "key": "basketball:19",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Philadelphia 76ers",
+    "key": "basketball:20",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Phoenix Suns",
+    "key": "basketball:21",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Portland Trail Blazers",
+    "key": "basketball:22",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Sacramento Kings",
+    "key": "basketball:23",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "San Antonio Spurs",
+    "key": "basketball:24",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Toronto Raptors",
+    "key": "basketball:28",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Utah Jazz",
+    "key": "basketball:26",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  },
+  {
+    "team": "Washington Wizards",
+    "key": "basketball:27",
+    "stadiumPhoto": "url checked",
+    "profile": "pending",
+    "titles": "league championship history"
+  }
+]

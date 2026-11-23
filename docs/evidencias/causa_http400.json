@@ -1,0 +1,7 @@
+{
+  "version_corregida": "1.0.1",
+  "consulta_rechazada": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261120-20261122&limit=100",
+  "http_observado": 400,
+  "consulta_aceptada": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261121&limit=100",
+  "http_observado_tras_correccion": 200
+}

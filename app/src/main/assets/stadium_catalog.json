@@ -1,0 +1,784 @@
+{
+  "basketball:1": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1827.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/1",
+    "stadium": "State Farm Arena"
+  },
+  "basketball:10": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1394.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/10",
+    "stadium": "Toyota Center (Houston)"
+  },
+  "basketball:11": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/2183.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/11",
+    "stadium": "Gainbridge Fieldhouse"
+  },
+  "basketball:12": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1841.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/12",
+    "stadium": "crypto.com Arena"
+  },
+  "basketball:13": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1841.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/13",
+    "stadium": "crypto.com Arena"
+  },
+  "basketball:14": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/3438.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/14",
+    "stadium": "Kaseya Center"
+  },
+  "basketball:15": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/2099.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/15",
+    "stadium": "BMO Harris Bradley Center"
+  },
+  "basketball:16": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/2029.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/16",
+    "stadium": "Target Center"
+  },
+  "basketball:17": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1826.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/17",
+    "stadium": "Prudential Center"
+  },
+  "basketball:18": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1830.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/18",
+    "stadium": "Madison Square Garden"
+  },
+  "basketball:19": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/3432.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/19",
+    "stadium": "Kia Center"
+  },
+  "basketball:2": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1824.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/2",
+    "stadium": "TD Garden"
+  },
+  "basketball:20": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1845.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/20",
+    "stadium": "Xfinity Mobile Arena"
+  },
+  "basketball:21": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1949.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/21",
+    "stadium": "Mortgage Matchup Center"
+  },
+  "basketball:22": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/3423.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/22",
+    "stadium": "Moda Center"
+  },
+  "basketball:23": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/2247.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/23",
+    "stadium": "Sleep Train Arena"
+  },
+  "basketball:24": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/780.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/24",
+    "stadium": "Frost Bank Center"
+  },
+  "basketball:25": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/2559.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/25",
+    "stadium": "Paycom Center"
+  },
+  "basketball:26": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/3093.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/26",
+    "stadium": "Delta Center"
+  },
+  "basketball:27": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1823.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/27",
+    "stadium": "Capital One Arena"
+  },
+  "basketball:28": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1838.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/28",
+    "stadium": "Scotiabank Arena"
+  },
+  "basketball:29": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1392.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/29",
+    "stadium": "FedExForum"
+  },
+  "basketball:3": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/985.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/3",
+    "stadium": "Smoothie King Center"
+  },
+  "basketball:30": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1893.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/30",
+    "stadium": "Spectrum Center"
+  },
+  "basketball:4": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/1847.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/4",
+    "stadium": "United Center"
+  },
+  "basketball:5": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/3417.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/5",
+    "stadium": "Rocket Arena"
+  },
+  "basketball:6": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/516.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/6",
+    "stadium": "American Airlines Center"
+  },
+  "basketball:7": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/892.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/7",
+    "stadium": "Ball Arena"
+  },
+  "basketball:8": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/5311.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/8",
+    "stadium": "Little Caesars Arena"
+  },
+  "basketball:9": {
+    "credit": "ESPN",
+    "image": "https://a.espncdn.com/i/venues/nba/day/2465.jpg",
+    "source": "https://www.espn.com/nba/team/_/id/9",
+    "stadium": "Oracle Arena"
+  },
+  "soccer:10060": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Estadio_barracas_central_1922.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_barracas_central_1922.jpg",
+    "stadium": "Estadio Claudio Chiqui Tapia"
+  },
+  "soccer:1007": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Estadio_Luis_Franzini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Luis_Franzini.jpg",
+    "stadium": "Estadio Luis Franzini"
+  },
+  "soccer:10094": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+    "stadium": "Estadio Olímpico de la UCV"
+  },
+  "soccer:102": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/ESTADIO3.jpg/960px-ESTADIO3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:ESTADIO3.jpg",
+    "stadium": "Estadio de la Cerámica"
+  },
+  "soccer:10309": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Estadio_Jaraguay_de_Monter%C3%ADa.jpg/960px-Estadio_Jaraguay_de_Monter%C3%ADa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Jaraguay_de_Monter%C3%ADa.jpg",
+    "stadium": "Estadio Jaraguay"
+  },
+  "soccer:10311": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Vista_Panor%C3%A1mica_Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte.jpg/960px-Vista_Panor%C3%A1mica_Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_Panor%C3%A1mica_Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte.jpg",
+    "stadium": "Estadio Víctor Agustín Ugarte"
+  },
+  "soccer:1068": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Atleti_vs_Villarreal_-_September_2025.jpg/960px-Atleti_vs_Villarreal_-_September_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Atleti_vs_Villarreal_-_September_2025.jpg",
+    "stadium": "Riyadh Air Metropolitano"
+  },
+  "soccer:12": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hinchada_del_Club_Lan%C3%BAs.jpg/960px-Hinchada_del_Club_Lan%C3%BAs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Hinchada_del_Club_Lan%C3%BAs.jpg",
+    "stadium": "Estadio Ciudad de Lanús – Néstor Díaz Pérez"
+  },
+  "soccer:13481": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+    "stadium": "Estadio Olímpico de la UCV"
+  },
+  "soccer:15": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Racing_Club_vs._Corinthians_-_CONMEBOL_Sudamericana_2024.jpg/960px-Racing_Club_vs._Corinthians_-_CONMEBOL_Sudamericana_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Racing_Club_vs._Corinthians_-_CONMEBOL_Sudamericana_2024.jpg",
+    "stadium": "El Cilindro"
+  },
+  "soccer:1538": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg/960px-Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg",
+    "stadium": "Estadi Ciutat de València"
+  },
+  "soccer:16": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Estadio_mas_monumental.jpg/960px-Estadio_mas_monumental.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_mas_monumental.jpg",
+    "stadium": "Estadio Monumental (Buenos Aires)"
+  },
+  "soccer:17": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2009_Argentina-Brasil_en_el_Gigante.jpg/960px-2009_Argentina-Brasil_en_el_Gigante.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:2009_Argentina-Brasil_en_el_Gigante.jpg",
+    "stadium": "Estadio Gigante de Arroyito"
+  },
+  "soccer:17090": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+    "stadium": "Estadio Olímpico de la UCV"
+  },
+  "soccer:18": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Platea_Este_Nuevo_Gasometro_1.jpg/960px-Platea_Este_Nuevo_Gasometro_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Platea_Este_Nuevo_Gasometro_1.jpg",
+    "stadium": "Estadio Pedro Bidegain"
+  },
+  "soccer:19002": {
+    "blocked": true
+  },
+  "soccer:2022": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Mineir%C3%A3o_%28Top_View%29.jpg/960px-Mineir%C3%A3o_%28Top_View%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Mineir%C3%A3o_%28Top_View%29.jpg",
+    "stadium": "Estadio Mineirão"
+  },
+  "soccer:2026": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Est%C3%A1dio_do_Morumbi.jpg/960px-Est%C3%A1dio_do_Morumbi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Morumbi.jpg",
+    "stadium": "Estádio do Morumbi"
+  },
+  "soccer:20889": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Estadioolimpicopatria.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadioolimpicopatria.jpg",
+    "stadium": "Estadio Olímpico Patria"
+  },
+  "soccer:22137": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Estadio_Departamental_F%C3%A9lix_Capriles_5.jpg/960px-Estadio_Departamental_F%C3%A9lix_Capriles_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Departamental_F%C3%A9lix_Capriles_5.jpg",
+    "stadium": "Estadio Félix Capriles"
+  },
+  "soccer:243": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_%28Sevilla_FC%29.jpg/960px-2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_%28Sevilla_FC%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_%28Sevilla_FC%29.jpg",
+    "stadium": "Ramón Sánchez Pizjuán Stadium"
+  },
+  "soccer:2672": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Estadio_Deportivo_Cali1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Deportivo_Cali1.jpg",
+    "stadium": "Estadio Deportivo Cali"
+  },
+  "soccer:2673": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Vista_panor%C3%A1mica_estadio_Alberto_Gallardo.jpg/960px-Vista_panor%C3%A1mica_estadio_Alberto_Gallardo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_estadio_Alberto_Gallardo.jpg",
+    "stadium": "Estadio Alberto Gallardo"
+  },
+  "soccer:2674": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Est%C3%A1dio_do_Morumbi.jpg/960px-Est%C3%A1dio_do_Morumbi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Morumbi.jpg",
+    "stadium": "Estádio Cícero Pompeu de Toledo"
+  },
+  "soccer:2681": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg/960px-Hernando_Siles_Stadium_-_La_Paz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Hernando_Siles_Stadium_-_La_Paz.jpg",
+    "stadium": "Estadio Hernando Siles"
+  },
+  "soccer:2683": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Estadio_Campe%C3%B3n_del_Siglo_setiembre_2021.jpg/960px-Estadio_Campe%C3%B3n_del_Siglo_setiembre_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Campe%C3%B3n_del_Siglo_setiembre_2021.jpg",
+    "stadium": "Estadio Campeón del Siglo"
+  },
+  "soccer:2685": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_Monumental_2021.jpg/960px-Estadio_Monumental_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Monumental_2021.jpg",
+    "stadium": "Estadio Monumental \"U\""
+  },
+  "soccer:2690": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg/960px-Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg",
+    "stadium": "Atanasio Girardot Stadium"
+  },
+  "soccer:2922": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Getafe0-0Lega2018.jpg/960px-Getafe0-0Lega2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Getafe0-0Lega2018.jpg",
+    "stadium": "Estadio Coliseum"
+  },
+  "soccer:3": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Estadio_argentinos_juniors.jpg/960px-Estadio_argentinos_juniors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_argentinos_juniors.jpg",
+    "stadium": "Estadio Diego Armando Maradona"
+  },
+  "soccer:306": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Match_day_at_the_KC_Stadium_-_geograph.org.uk_-_1497910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Match_day_at_the_KC_Stadium_-_geograph.org.uk_-_1497910.jpg",
+    "stadium": "MKM Stadium"
+  },
+  "soccer:331": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Amex_Community_Stadium.jpg/960px-Amex_Community_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Amex_Community_Stadium.jpg",
+    "stadium": "American Express Stadium"
+  },
+  "soccer:337": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Brentford_Community_Stadium_2020.jpg/960px-Brentford_Community_Stadium_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Brentford_Community_Stadium_2020.jpg",
+    "stadium": "Gtech Community Stadium"
+  },
+  "soccer:3445": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/960px-Maracana_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Maracana_2022.jpg",
+    "stadium": "Estadio do Maracana"
+  },
+  "soccer:3454": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Estadio_sao_januario_cropp.jpg/960px-Estadio_sao_januario_cropp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_sao_januario_cropp.jpg",
+    "stadium": "Estádio São Januário"
+  },
+  "soccer:349": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Deancourt_14092013_vblackpool.jpg/960px-Deancourt_14092013_vblackpool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Deancourt_14092013_vblackpool.jpg",
+    "stadium": "Vitality Stadium"
+  },
+  "soccer:357": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Leeds_United_-_31559864360.jpg/960px-Leeds_United_-_31559864360.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Leeds_United_-_31559864360.jpg",
+    "stadium": "Elland Road"
+  },
+  "soccer:359": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/London_Emirates_Stadium_arsenal.jpg/960px-London_Emirates_Stadium_arsenal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg",
+    "stadium": "Emirates Stadium"
+  },
+  "soccer:360": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/960px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg",
+    "stadium": "Old Trafford"
+  },
+  "soccer:361": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Newcastle_st-james-park_stadium.jpg/960px-Newcastle_st-james-park_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Newcastle_st-james-park_stadium.jpg",
+    "stadium": "St. James' Park"
+  },
+  "soccer:362": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Birmingham_aston_villa_park_stadium.jpg/960px-Birmingham_aston_villa_park_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg",
+    "stadium": "Villa Park"
+  },
+  "soccer:363": {
+    "stadium": "Stamford Bridge",
+    "asset": "363.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Stamford_Bridge_from_the_air.jpg",
+    "credit": "Ben Leto, 2005 · CC BY 2.0",
+    "license": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  "soccer:364": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Liverpool_anfield_road_stadium.jpg",
+    "stadium": "Anfield"
+  },
+  "soccer:366": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunderland_stadium_of_light.jpg/960px-Sunderland_stadium_of_light.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunderland_stadium_of_light.jpg",
+    "stadium": "Stadium of Light"
+  },
+  "soccer:367": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Tottenham_Hotspur_Stadium.jpg",
+    "stadium": "Tottenham Hotspur Stadium"
+  },
+  "soccer:368": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Hill_Dickinson_Stadium%2C_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg/960px-Hill_Dickinson_Stadium%2C_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium%2C_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg",
+    "stadium": "Hill Dickinson Stadium"
+  },
+  "soccer:370": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Craven_Cottage_%28Fulham%29.jpg/960px-Craven_Cottage_%28Fulham%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Craven_Cottage_%28Fulham%29.jpg",
+    "stadium": "Craven Cottage"
+  },
+  "soccer:373": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Portman_Road_aerial_%28cropped%29.jpg/960px-Portman_Road_aerial_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Portman_Road_aerial_%28cropped%29.jpg",
+    "stadium": "Portman Road"
+  },
+  "soccer:3751": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg/960px-Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg",
+    "stadium": "Estadio Martínez Valero"
+  },
+  "soccer:382": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/City_of_Manchester_Stadium_2023_cropped.jpg/960px-City_of_Manchester_Stadium_2023_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg",
+    "stadium": "Etihad Stadium"
+  },
+  "soccer:384": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg/960px-2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg",
+    "stadium": "Selhurst Park"
+  },
+  "soccer:388": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Coventry_Derby_October_2021_-_2.jpg/960px-Coventry_Derby_October_2021_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Coventry_Derby_October_2021_-_2.jpg",
+    "stadium": "Coventry Building Society Arena"
+  },
+  "soccer:393": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/CityGroundFromAboveTrentBridgeCricketGround.jpg/960px-CityGroundFromAboveTrentBridgeCricketGround.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:CityGroundFromAboveTrentBridgeCricketGround.jpg",
+    "stadium": "The City Ground"
+  },
+  "soccer:4133": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Fotoestadio.jpg/960px-Fotoestadio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Fotoestadio.jpg",
+    "stadium": "Estadio El Cobre"
+  },
+  "soccer:4138": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Estadio_Bicentenario_de_La_Florida.jpg/960px-Estadio_Bicentenario_de_La_Florida.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Bicentenario_de_La_Florida.jpg",
+    "stadium": "Estadio Municipal de La Florida"
+  },
+  "soccer:4139": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg/960px-Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg",
+    "stadium": "Estadio Nacional Julio Martínez Prádanos"
+  },
+  "soccer:4422": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Estadio_Municipal_de_La_Cisterna_Palestino_v_Deportes_Copiap%C3%B3_20230730_01.jpg/960px-Estadio_Municipal_de_La_Cisterna_Palestino_v_Deportes_Copiap%C3%B3_20230730_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Municipal_de_La_Cisterna_Palestino_v_Deportes_Copiap%C3%B3_20230730_01.jpg",
+    "stadium": "Estadio Municipal de La Cisterna"
+  },
+  "soccer:4811": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+    "stadium": "Estadio Olímpico de la UCV"
+  },
+  "soccer:4816": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/LaCasaBlanca.jpg/960px-LaCasaBlanca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:LaCasaBlanca.jpg",
+    "stadium": "Estadio Rodrigo Paz Delgado"
+  },
+  "soccer:4818": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Inauguraci%C3%B3n_Copa_Am%C3%A9rica_2007.jpg/960px-Inauguraci%C3%B3n_Copa_Am%C3%A9rica_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Inauguraci%C3%B3n_Copa_Am%C3%A9rica_2007.jpg",
+    "stadium": "Estadio Pueblo Nuevo"
+  },
+  "soccer:4928": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/EstadioTecho2015.JPG/960px-EstadioTecho2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:EstadioTecho2015.JPG",
+    "stadium": "Estadio Metropolitano de Techo"
+  },
+  "soccer:5": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg/960px-Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
+    "stadium": "La Bombonera"
+  },
+  "soccer:5264": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg/960px-Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg",
+    "stadium": "Atanasio Girardot Stadium"
+  },
+  "soccer:5480": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Estadio_La_Independencia.jpg/960px-Estadio_La_Independencia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_La_Independencia.jpg",
+    "stadium": "Estadio La Independencia"
+  },
+  "soccer:5484": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/BOG_El_Campin.jpg/960px-BOG_El_Campin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:BOG_El_Campin.jpg",
+    "stadium": "Estadio El Campín"
+  },
+  "soccer:5485": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Estadio_Departamental_Libertad.jpg/960px-Estadio_Departamental_Libertad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Departamental_Libertad.jpg",
+    "stadium": "Estadio Departamental Libertad"
+  },
+  "soccer:5486": {
+    "blocked": true
+  },
+  "soccer:5488": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/BOG_El_Campin.jpg/960px-BOG_El_Campin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:BOG_El_Campin.jpg",
+    "stadium": "Estadio El Campín"
+  },
+  "soccer:5492": {
+    "blocked": true
+  },
+  "soccer:6037": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Misael_Delgado_-_Carabobo_vs_Deportivo_Tachira_05-02-2011.jpg/960px-Misael_Delgado_-_Carabobo_vs_Deportivo_Tachira_05-02-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Misael_Delgado_-_Carabobo_vs_Deportivo_Tachira_05-02-2011.jpg",
+    "stadium": "Estadio Misael Delgado"
+  },
+  "soccer:6041": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Estadio_Monumental_de_Matur%C3%ADn.2.jpg/960px-Estadio_Monumental_de_Matur%C3%ADn.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Monumental_de_Matur%C3%ADn.2.jpg",
+    "stadium": "Estadio Monumental de Maturín"
+  },
+  "soccer:6047": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/ESTADIORAMONAGUILERACOSTAS.jpg/960px-ESTADIORAMONAGUILERACOSTAS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:ESTADIORAMONAGUILERACOSTAS.jpg",
+    "stadium": "Estadio Ramón Tahuichi Aguilera"
+  },
+  "soccer:6072": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20250830_Estadio_Codelco_El_Teniente_2.jpg/960px-20250830_Estadio_Codelco_El_Teniente_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:20250830_Estadio_Codelco_El_Teniente_2.jpg",
+    "stadium": "Estadio El Teniente"
+  },
+  "soccer:6086": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Nilton_Santos%2C_Est%C3%A1dio_Nilton_Santos.jpg/960px-Nilton_Santos%2C_Est%C3%A1dio_Nilton_Santos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Nilton_Santos%2C_Est%C3%A1dio_Nilton_Santos.jpg",
+    "stadium": "Joao Havelange Stadium"
+  },
+  "soccer:6101": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Fortinmotilon2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Fortinmotilon2.jpg",
+    "stadium": "Estadio General Santander"
+  },
+  "soccer:6273": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Arena_do_Gr%C3%AAmio_2014.jpg/960px-Arena_do_Gr%C3%AAmio_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_do_Gr%C3%AAmio_2014.jpg",
+    "stadium": "Arena do Grêmio"
+  },
+  "soccer:7312": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/OutsideUNSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:OutsideUNSA.jpg",
+    "stadium": "Estadio Monumental de la UNSA"
+  },
+  "soccer:7632": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Atl%C3%A9tico_Mineiro_v_Bahia%2C_Arena_MRV%2C_Belo_Horizonte%2C_2024.jpg/960px-Atl%C3%A9tico_Mineiro_v_Bahia%2C_Arena_MRV%2C_Belo_Horizonte%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Atl%C3%A9tico_Mineiro_v_Bahia%2C_Arena_MRV%2C_Belo_Horizonte%2C_2024.jpg",
+    "stadium": "Arena MRV"
+  },
+  "soccer:7764": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estadio_de_platense_tribuna_y_campo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_de_platense_tribuna_y_campo.jpg",
+    "stadium": "Estadio Ciudad de Vicente López"
+  },
+  "soccer:7767": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tigre_estadio_tribuna_peron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:Tigre_estadio_tribuna_peron.jpg",
+    "stadium": "Estadio José Dellagiovanna"
+  },
+  "soccer:8": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/UNO_20220614_210130.jpg/960px-UNO_20220614_210130.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:UNO_20220614_210130.jpg",
+    "stadium": "Estadio Jorge Luis Hirschi"
+  },
+  "soccer:8109": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pascual_Guerrero_Stadium.jpg/960px-Pascual_Guerrero_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Pascual_Guerrero_Stadium.jpg",
+    "stadium": "Pascual Guerrero"
+  },
+  "soccer:8186": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/EstadioFranciscoS%C3%A1nchezRumoroso.jpg/960px-EstadioFranciscoS%C3%A1nchezRumoroso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:EstadioFranciscoS%C3%A1nchezRumoroso.jpg",
+    "stadium": "Estadio Francisco Sánchez Rumoroso"
+  },
+  "soccer:819": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/960px-Maracana_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Maracana_2022.jpg",
+    "stadium": "Estadio do Maracana"
+  },
+  "soccer:83": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Camp_Nou_aerial.jpg/960px-Camp_Nou_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Camp_Nou_aerial.jpg",
+    "stadium": "Spotify Camp Nou"
+  },
+  "soccer:85": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Balaidos_hoy.jpg/960px-Balaidos_hoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg",
+    "stadium": "Balaidos"
+  },
+  "soccer:86": {
+    "stadium": "Estadio Santiago Bernabéu",
+    "asset": "86.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg",
+    "credit": "Zoser, 2024 · CC BY 4.0",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "soccer:87": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Fotograf%C3%ADa_Eduardo_Berm%C3%BAdez_para_los_Campos_de_Sport_de_El_Sardinero.jpg/960px-Fotograf%C3%ADa_Eduardo_Berm%C3%BAdez_para_los_Campos_de_Sport_de_El_Sardinero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Fotograf%C3%ADa_Eduardo_Berm%C3%BAdez_para_los_Campos_de_Sport_de_El_Sardinero.jpg",
+    "stadium": "Campos de Sport de El Sardinero"
+  },
+  "soccer:874": {
+    "credit": "Wikimedia Commons",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ARENA_CORINTHIANS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "source": "https://commons.wikimedia.org/wiki/File:ARENA_CORINTHIANS.jpg",
+    "stadium": "Neo Química Arena"
+  },
+  "soccer:88": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Stage_Front_Stadium.jpg/960px-Stage_Front_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Stage_Front_Stadium.jpg",
+    "stadium": "RCDE Stadium"
+  },
+  "soccer:885": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Vista_A%C3%A9rea_del_Claro_Arena_%28San_Carlos_de_Apoquindo%29.jpg/960px-Vista_A%C3%A9rea_del_Claro_Arena_%28San_Carlos_de_Apoquindo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_A%C3%A9rea_del_Claro_Arena_%28San_Carlos_de_Apoquindo%29.jpg",
+    "stadium": "Estadio San Carlos de Apoquindo"
+  },
+  "soccer:89": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Anoeta_estadioa_31%2C_Donostia%2C_Gipuzkoa%2C_Euskal_Herria.jpg/960px-Anoeta_estadioa_31%2C_Donostia%2C_Gipuzkoa%2C_Euskal_Herria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Anoeta_estadioa_31%2C_Donostia%2C_Gipuzkoa%2C_Euskal_Herria.jpg",
+    "stadium": "Reale Arena"
+  },
+  "soccer:90": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Estadioriazor2023.jpg/960px-Estadioriazor2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadioriazor2023.jpg",
+    "stadium": "Riazor"
+  },
+  "soccer:93": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Panorama_im_San_Mam%C3%A9s_Stadion.jpg/960px-Panorama_im_San_Mam%C3%A9s_Stadion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_im_San_Mam%C3%A9s_Stadion.jpg",
+    "stadium": "San Mamés"
+  },
+  "soccer:94": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Mestalla_Stadium_Valencia_vs_Villarreal_2026.7.jpg/960px-Mestalla_Stadium_Valencia_vs_Villarreal_2026.7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Mestalla_Stadium_Valencia_vs_Villarreal_2026.7.jpg",
+    "stadium": "Mestalla Stadium"
+  },
+  "soccer:96": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mendizorrotza_diciembre_2021.jpg/960px-Mendizorrotza_diciembre_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Mendizorrotza_diciembre_2021.jpg",
+    "stadium": "Mendizorrotza"
+  },
+  "soccer:97": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Estadio_El_Sadar.jpg/960px-Estadio_El_Sadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_El_Sadar.jpg",
+    "stadium": "El Sadar"
+  },
+  "soccer:9744": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/UNCUECO_24.JPG/960px-UNCUECO_24.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:UNCUECO_24.JPG",
+    "stadium": "Estadio Bautista Gargantini"
+  },
+  "soccer:9761": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Estadio_Armando_Maestre_Pavajeau.jpg/960px-Estadio_Armando_Maestre_Pavajeau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Estadio_Armando_Maestre_Pavajeau.jpg",
+    "stadium": "Estadio Armando Maestre Pavajeau"
+  },
+  "soccer:9762": {
+    "blocked": true
+  },
+  "soccer:99": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/IMG-20220228-WA0055.jpg/960px-IMG-20220228-WA0055.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:IMG-20220228-WA0055.jpg",
+    "stadium": "La Rosaleda"
+  },
+  "soccer:9967": {
+    "credit": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Arena_Fonte_Nova_view_from_lake_%28zoom%29.jpg/960px-Arena_Fonte_Nova_view_from_lake_%28zoom%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Arena_Fonte_Nova_view_from_lake_%28zoom%29.jpg",
+    "stadium": "Arena Fonte Nova"
+  }
+}

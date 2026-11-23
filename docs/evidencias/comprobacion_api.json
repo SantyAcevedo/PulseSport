@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard",
+    "http": 200,
+    "registros": 7,
+    "utc": "2026-11-21T16:38:13.757534+00:00"
+  },
+  {
+    "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/eng.1/standings",
+    "http": 200,
+    "registros": 20,
+    "utc": "2026-11-21T16:38:16.708489+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard",
+    "http": 200,
+    "registros": 4,
+    "utc": "2026-11-21T16:38:19.364573+00:00"
+  },
+  {
+    "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/esp.1/standings",
+    "http": 200,
+    "registros": 20,
+    "utc": "2026-11-21T16:38:22.159451+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/col.1/scoreboard",
+    "http": 200,
+    "registros": 1,
+    "utc": "2026-11-21T16:38:25.015085+00:00"
+  },
+  {
+    "url": "https://site.web.api.espn.com/apis/v2/sports/soccer/col.1/standings",
+    "http": 200,
+    "registros": 8,
+    "utc": "2026-11-21T16:38:27.879313+00:00"
+  },
+  {
+    "url": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard",
+    "http": 200,
+    "registros": 6,
+    "utc": "2026-11-21T16:38:30.655699+00:00"
+  },
+  {
+    "url": "https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings",
+    "http": 200,
+    "registros": 30,
+    "utc": "2026-11-21T16:38:33.432941+00:00"
+  }
+]

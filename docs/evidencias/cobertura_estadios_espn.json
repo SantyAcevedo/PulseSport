@@ -1,0 +1,3557 @@
+[
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "9761",
+    "name": "Alianza FC",
+    "venue": "Armando Maestre Pavajeau",
+    "images": [],
+    "address": {
+      "city": "Valledupar",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Armando Maestre Pavajeau",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Estadio_Armando_Maestre_Pavajeau.jpg/960px-Estadio_Armando_Maestre_Pavajeau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Armando_Maestre_Pavajeau.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "8109",
+    "name": "América de Cali",
+    "venue": "Pascual Guerrero",
+    "images": [],
+    "address": {
+      "city": "Cali",
+      "country": "Colombia"
+    },
+    "photo": {
+      "stadium": "Pascual Guerrero",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Pascual_Guerrero_Stadium.jpg/960px-Pascual_Guerrero_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Pascual_Guerrero_Stadium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6137",
+    "name": "Atlético Bucaramanga",
+    "venue": "Estadio Alfonso López",
+    "images": [],
+    "address": {
+      "city": "Bucaramanga",
+      "country": "Colombia"
+    },
+    "status": "bundled photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "4815",
+    "name": "Atlético Junior",
+    "venue": "Romelio Martínez",
+    "images": [],
+    "address": {
+      "city": "Barranquilla",
+      "country": "Colombia"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "5264",
+    "name": "Atlético Nacional",
+    "venue": "Atanasio Girardot",
+    "images": [],
+    "address": {
+      "city": "Medellin",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Atanasio Girardot Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg/960px-Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "5480",
+    "name": "Boyacá Chicó FC",
+    "venue": "La Independencia",
+    "images": [],
+    "address": {
+      "city": "Tunja",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio La Independencia",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Estadio_La_Independencia.jpg/960px-Estadio_La_Independencia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_La_Independencia.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "6101",
+    "name": "Cúcuta Deportivo",
+    "venue": "General Santander",
+    "images": [],
+    "address": {
+      "city": "Cúcuta",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio General Santander",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Fortinmotilon2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Fortinmotilon2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "HTTP Error 429: Too many requests. Please contact the Wikimedia SRE team at noc@wikimedia.org and refer to this message. (daab851)"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "5489",
+    "name": "Deportes Tolima",
+    "venue": "Estadio Manuel Murillo Toro",
+    "images": [],
+    "address": {
+      "city": "Ibague",
+      "country": "Colombia"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "2672",
+    "name": "Deportivo Cali",
+    "venue": "Deportivo Cali",
+    "images": [],
+    "address": {
+      "city": "Cali",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Deportivo Cali",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Estadio_Deportivo_Cali1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Deportivo_Cali1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "5485",
+    "name": "Deportivo Pasto",
+    "venue": "Departamental Libertad",
+    "images": [],
+    "address": {
+      "city": "Pasto",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Departamental Libertad",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Estadio_Departamental_Libertad.jpg/960px-Estadio_Departamental_Libertad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Departamental_Libertad.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "5486",
+    "name": "Deportivo Pereira",
+    "venue": "Estadio Santiago de Las Atalayas",
+    "images": [],
+    "address": {
+      "city": "Yopal",
+      "country": "Colombia"
+    },
+    "status": "ESPN venue requires independent confirmation"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "4928",
+    "name": "Fortaleza CEIF",
+    "venue": "Metropolitano de Techo",
+    "images": [],
+    "address": {
+      "city": "Bogota",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Metropolitano de Techo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/EstadioTecho2015.JPG/960px-EstadioTecho2015.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:EstadioTecho2015.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "2690",
+    "name": "Independiente Medellín",
+    "venue": "Atanasio Girardot",
+    "images": [],
+    "address": {
+      "city": "Medellin",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Atanasio Girardot Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg/960px-Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Atanasio_Girardot-Atl%C3%A9tico_Nacional-Fortaleza.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "5488",
+    "name": "Independiente Santa Fe",
+    "venue": "Estadio Nemesio Camacho El Campín",
+    "images": [],
+    "address": {
+      "city": "Bogota",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio El Campín",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/BOG_El_Campin.jpg/960px-BOG_El_Campin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:BOG_El_Campin.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "7445",
+    "name": "Internacional de Bogotá",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "10309",
+    "name": "Jaguares de Córdoba",
+    "venue": "Estadio Jaraguay (Municipal de Montería)",
+    "images": [],
+    "address": {
+      "city": "Montería",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Jaraguay",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Estadio_Jaraguay_de_Monter%C3%ADa.jpg/960px-Estadio_Jaraguay_de_Monter%C3%ADa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Jaraguay_de_Monter%C3%ADa.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "7915",
+    "name": "Llaneros FC",
+    "venue": "Estadio Bello Horizonte - Rey Pele",
+    "images": [],
+    "address": {
+      "city": "Villavicencio",
+      "country": "Colombia"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "5484",
+    "name": "Millonarios",
+    "venue": "Estadio Nemesio Camacho El Campín",
+    "images": [],
+    "address": {
+      "city": "Bogota",
+      "country": "Colombia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio El Campín",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/BOG_El_Campin.jpg/960px-BOG_El_Campin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:BOG_El_Campin.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "2919",
+    "name": "Once Caldas",
+    "venue": "Palogrande",
+    "images": [],
+    "address": {
+      "city": "Manizales",
+      "country": "Colombia"
+    },
+    "status": "bundled photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "9762",
+    "name": "Águilas Doradas",
+    "venue": "Estadio Cincuentenario",
+    "images": [],
+    "address": {
+      "city": "Medellin",
+      "country": "Colombia"
+    },
+    "status": "ESPN venue requires independent confirmation"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "17370",
+    "name": "Atlético FC",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "17373",
+    "name": "Barranquilla FC",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "17372",
+    "name": "Boca Juniors de Cali",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "17371",
+    "name": "Bogotá FC",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "5487",
+    "name": "Deportes Quindío",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "5481",
+    "name": "Envigado FC",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "131659",
+    "name": "Independiente Yumbo",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "22184",
+    "name": "Inter Palmira",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "9769",
+    "name": "Itagüí Leones",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "18156",
+    "name": "Orsomarso SC",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "9773",
+    "name": "Patriotas",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "5479",
+    "name": "Real Cartagena",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "21967",
+    "name": "Real Cundinamarca",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "9774",
+    "name": "Real Santander",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "9770",
+    "name": "Tigres FC",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "col.copa",
+    "id": "17374",
+    "name": "Unión Magdalena",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "6097",
+    "name": "2 de Mayo",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "19425",
+    "name": "Always Ready",
+    "venue": "Municipal Villa Ingenio",
+    "images": [],
+    "address": {
+      "city": "El Alto, La Paz.",
+      "country": "Bolivia"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "3",
+    "name": "Argentinos Juniors",
+    "venue": "Diego Armando Maradona",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Diego Armando Maradona",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Estadio_argentinos_juniors.jpg/960px-Estadio_argentinos_juniors.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_argentinos_juniors.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "9967",
+    "name": "Bahia",
+    "venue": "Arena Fonte Nova",
+    "images": [],
+    "address": {
+      "city": "Salvador",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Arena Fonte Nova",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Arena_Fonte_Nova_view_from_lake_%28zoom%29.jpg/960px-Arena_Fonte_Nova_view_from_lake_%28zoom%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Arena_Fonte_Nova_view_from_lake_%28zoom%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "2686",
+    "name": "Barcelona SC",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "5",
+    "name": "Boca Juniors",
+    "venue": "Padre Ernesto Martearena",
+    "images": [],
+    "address": {
+      "city": "Salta",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "La Bombonera",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg/960px-Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_Estadio_Alberto_J._Armando_%22La_Bombonera%22_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "venueSource": "https://www.bocajuniors.com.ar/la-bombonera",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "2681",
+    "name": "Bolívar",
+    "venue": "Estadio Hernando Siles",
+    "images": [],
+    "address": {
+      "city": "La Paz",
+      "country": "Bolivia"
+    },
+    "photo": {
+      "stadium": "Estadio Hernando Siles",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg/960px-Hernando_Siles_Stadium_-_La_Paz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Hernando_Siles_Stadium_-_La_Paz.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6086",
+    "name": "Botafogo",
+    "venue": "Joao Havelange Stadium",
+    "images": [],
+    "address": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Joao Havelange Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Nilton_Santos%2C_Est%C3%A1dio_Nilton_Santos.jpg/960px-Nilton_Santos%2C_Est%C3%A1dio_Nilton_Santos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Nilton_Santos%2C_Est%C3%A1dio_Nilton_Santos.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6037",
+    "name": "Carabobo",
+    "venue": "Estadio Misael Delgado",
+    "images": [],
+    "address": {
+      "city": "Valencia",
+      "country": "Venezuela"
+    },
+    "photo": {
+      "stadium": "Estadio Misael Delgado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Misael_Delgado_-_Carabobo_vs_Deportivo_Tachira_05-02-2011.jpg/960px-Misael_Delgado_-_Carabobo_vs_Deportivo_Tachira_05-02-2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Misael_Delgado_-_Carabobo_vs_Deportivo_Tachira_05-02-2011.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "2671",
+    "name": "Cerro Porteño",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "8186",
+    "name": "Coquimbo Unido",
+    "venue": "Estadio Francisco Sánchez Rumoroso",
+    "images": [],
+    "address": {
+      "city": "Coquimbo",
+      "country": "Chile"
+    },
+    "photo": {
+      "stadium": "Estadio Francisco Sánchez Rumoroso",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/EstadioFranciscoS%C3%A1nchezRumoroso.jpg/960px-EstadioFranciscoS%C3%A1nchezRumoroso.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:EstadioFranciscoS%C3%A1nchezRumoroso.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "874",
+    "name": "Corinthians",
+    "venue": "Neo Química Arena",
+    "images": [],
+    "address": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Neo Química Arena",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/ARENA_CORINTHIANS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:ARENA_CORINTHIANS.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "2022",
+    "name": "Cruzeiro",
+    "venue": "Estadio Mineirão",
+    "images": [],
+    "address": {
+      "city": "Belo Horizonte",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Estadio Mineirão",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Mineir%C3%A3o_%28Top_View%29.jpg/960px-Mineir%C3%A3o_%28Top_View%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Mineir%C3%A3o_%28Top_View%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "11995",
+    "name": "Cusco FC",
+    "venue": "Estadio Inca Garcilaso de la Vega",
+    "images": [],
+    "address": {
+      "city": "Cusco",
+      "country": "Peru"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "17090",
+    "name": "Deportivo La Guaira",
+    "venue": "Estadio Olímpico de la UCV",
+    "images": [],
+    "address": {
+      "city": "Caracas",
+      "country": "Venezuela"
+    },
+    "photo": {
+      "stadium": "Estadio Olímpico de la UCV",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "4818",
+    "name": "Deportivo Táchira",
+    "venue": "Estadio Pueblo Nuevo",
+    "images": [],
+    "address": {
+      "city": "San Cristóbal",
+      "country": "Venezuela"
+    },
+    "photo": {
+      "stadium": "Estadio Pueblo Nuevo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Inauguraci%C3%B3n_Copa_Am%C3%A9rica_2007.jpg/960px-Inauguraci%C3%B3n_Copa_Am%C3%A9rica_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Inauguraci%C3%B3n_Copa_Am%C3%A9rica_2007.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "8",
+    "name": "Estudiantes de La Plata",
+    "venue": "El Gigante de Alberdi",
+    "images": [],
+    "address": {
+      "city": "Córdoba",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Jorge Luis Hirschi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/UNO_20220614_210130.jpg/960px-UNO_20220614_210130.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:UNO_20220614_210130.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "venueSource": "https://estudiantesdelaplata.com/estadio/",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.recopa",
+    "id": "819",
+    "name": "Flamengo",
+    "venue": "Estadio do Maracana",
+    "images": [],
+    "address": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Estadio do Maracana",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/960px-Maracana_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Maracana_2022.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "3445",
+    "name": "Fluminense",
+    "venue": "Estadio do Maracana",
+    "images": [],
+    "address": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Estadio do Maracana",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/960px-Maracana_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Maracana_2022.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "7385",
+    "name": "Guaraní",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "4134",
+    "name": "Huachipato",
+    "venue": "Estadio Huachipato-CAP Acero",
+    "images": [],
+    "address": {
+      "city": "Talcahuano",
+      "country": "Chile"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "9744",
+    "name": "Independiente Rivadavia",
+    "venue": "Bautista Gargantini",
+    "images": [],
+    "address": {
+      "city": "Mendoza",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Bautista Gargantini",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/UNCUECO_24.JPG/960px-UNCUECO_24.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:UNCUECO_24.JPG",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "17086",
+    "name": "Independiente del Valle",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "8416",
+    "name": "Juventud",
+    "venue": "Estadio Juventud Parque Artigas",
+    "images": [],
+    "address": {
+      "city": "Las Piedras",
+      "country": "Uruguay"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.recopa",
+    "id": "12",
+    "name": "Lanús",
+    "venue": "Ciudad de Lanús",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Ciudad de Lanús – Néstor Díaz Pérez",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hinchada_del_Club_Lan%C3%BAs.jpg/960px-Hinchada_del_Club_Lan%C3%BAs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Hinchada_del_Club_Lan%C3%BAs.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "2670",
+    "name": "Libertad",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "4816",
+    "name": "Liga de Quito",
+    "venue": "Rodrigo Paz Delgado",
+    "images": [],
+    "address": {
+      "city": "Quito",
+      "country": "Ecuador"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Rodrigo Paz Delgado",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/LaCasaBlanca.jpg/960px-LaCasaBlanca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:LaCasaBlanca.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "5492",
+    "name": "Liverpool",
+    "venue": "Estadio Luis Franzini",
+    "images": [],
+    "address": {
+      "city": "Montevideo",
+      "country": "Uruguay"
+    },
+    "status": "ESPN venue requires independent confirmation"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "9169",
+    "name": "Mirassol",
+    "venue": "Estadio Municipal José Maria de Campos Maia",
+    "images": [],
+    "address": {
+      "city": "Mirassol",
+      "country": "Brazil"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "2684",
+    "name": "Nacional",
+    "venue": "Gran Parque Central",
+    "images": [],
+    "address": {
+      "city": "Montevideo",
+      "country": "Uruguay"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "10311",
+    "name": "Nacional Potosí",
+    "venue": "Estadio Víctor Agustín Ugarte",
+    "images": [],
+    "address": {
+      "city": "Potosí",
+      "country": "Bolivia"
+    },
+    "photo": {
+      "stadium": "Estadio Víctor Agustín Ugarte",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Vista_Panor%C3%A1mica_Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte.jpg/960px-Vista_Panor%C3%A1mica_Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Vista_Panor%C3%A1mica_Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6072",
+    "name": "O'Higgins",
+    "venue": "Estadio El Teniente",
+    "images": [],
+    "address": {
+      "city": "Rancagua",
+      "country": "Chile"
+    },
+    "photo": {
+      "stadium": "Estadio El Teniente",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/20250830_Estadio_Codelco_El_Teniente_2.jpg/960px-20250830_Estadio_Codelco_El_Teniente_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:20250830_Estadio_Codelco_El_Teniente_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "2029",
+    "name": "Palmeiras",
+    "venue": "Allianz Parque",
+    "images": [],
+    "address": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "status": "bundled photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "2683",
+    "name": "Peñarol",
+    "venue": "Estadio Campeón del Siglo",
+    "images": [],
+    "address": {
+      "city": "Montevideo",
+      "country": "Uruguay"
+    },
+    "photo": {
+      "stadium": "Estadio Campeón del Siglo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Estadio_Campe%C3%B3n_del_Siglo_setiembre_2021.jpg/960px-Estadio_Campe%C3%B3n_del_Siglo_setiembre_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Campe%C3%B3n_del_Siglo_setiembre_2021.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "7764",
+    "name": "Platense",
+    "venue": "Ciudad de Vicente López",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Ciudad de Vicente López",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Estadio_de_platense_tribuna_y_campo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_de_platense_tribuna_y_campo.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "HTTP Error 429: Too many requests. Please contact the Wikimedia SRE team at noc@wikimedia.org and refer to this message. (daab851)"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "17",
+    "name": "Rosario Central",
+    "venue": "Gigante de Arroyito",
+    "images": [],
+    "address": {
+      "city": "Rosario",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Gigante de Arroyito",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/2009_Argentina-Brasil_en_el_Gigante.jpg/960px-2009_Argentina-Brasil_en_el_Gigante.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:2009_Argentina-Brasil_en_el_Gigante.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "2673",
+    "name": "Sporting Cristal",
+    "venue": "Estadio Alberto Gallardo",
+    "images": [],
+    "address": {
+      "city": "San Martin de Porres",
+      "country": "Peru"
+    },
+    "photo": {
+      "stadium": "Estadio Alberto Gallardo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Vista_panor%C3%A1mica_estadio_Alberto_Gallardo.jpg/960px-Vista_panor%C3%A1mica_estadio_Alberto_Gallardo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Vista_panor%C3%A1mica_estadio_Alberto_Gallardo.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "10094",
+    "name": "UCV FC",
+    "venue": "Estadio Olímpico de la UCV",
+    "images": [],
+    "address": {
+      "city": "Caracas",
+      "country": "Venezuela"
+    },
+    "photo": {
+      "stadium": "Estadio Olímpico de la UCV",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "885",
+    "name": "Universidad Católica",
+    "venue": "Estadio San Carlos de Apoquindo",
+    "images": [],
+    "address": {
+      "city": "Santiago",
+      "country": "Chile"
+    },
+    "photo": {
+      "stadium": "Estadio San Carlos de Apoquindo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Vista_A%C3%A9rea_del_Claro_Arena_%28San_Carlos_de_Apoquindo%29.jpg/960px-Vista_A%C3%A9rea_del_Claro_Arena_%28San_Carlos_de_Apoquindo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Vista_A%C3%A9rea_del_Claro_Arena_%28San_Carlos_de_Apoquindo%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.libertadores",
+    "id": "2685",
+    "name": "Universitario",
+    "venue": "Estadio Monumental de Lima",
+    "images": [],
+    "address": {
+      "city": "Lima",
+      "country": "Peru"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Monumental \"U\"",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_Monumental_2021.jpg/960px-Estadio_Monumental_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Monumental_2021.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "18995",
+    "name": "Academia Puerto Cabello",
+    "venue": "Complejo Deportivo Socialista",
+    "images": [],
+    "address": {
+      "city": "Carabobo",
+      "country": "Venezuela"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "5267",
+    "name": "Alianza Atlético",
+    "venue": "Estadio Campeones del '36",
+    "images": [],
+    "address": {
+      "city": "Sullana",
+      "country": "Peru"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "7632",
+    "name": "Atlético-MG",
+    "venue": "Arena MRV",
+    "images": [],
+    "address": {
+      "city": "Belo Horizonte",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Arena MRV",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Atl%C3%A9tico_Mineiro_v_Bahia%2C_Arena_MRV%2C_Belo_Horizonte%2C_2024.jpg/960px-Atl%C3%A9tico_Mineiro_v_Bahia%2C_Arena_MRV%2C_Belo_Horizonte%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Atl%C3%A9tico_Mineiro_v_Bahia%2C_Arena_MRV%2C_Belo_Horizonte%2C_2024.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "4138",
+    "name": "Audax Italiano",
+    "venue": "Estadio Municipal de La Florida",
+    "images": [],
+    "address": {
+      "city": "Santiago",
+      "country": "Chile"
+    },
+    "photo": {
+      "stadium": "Estadio Municipal de La Florida",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Estadio_Bicentenario_de_La_Florida.jpg/960px-Estadio_Bicentenario_de_La_Florida.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Bicentenario_de_La_Florida.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "10060",
+    "name": "Barracas Central",
+    "venue": "Estadio Claudio Chiqui Tapia",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "photo": {
+      "stadium": "Estadio Claudio Chiqui Tapia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Estadio_barracas_central_1922.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_barracas_central_1922.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6047",
+    "name": "Blooming",
+    "venue": "Estadio Ramón Tahuichi",
+    "images": [],
+    "address": {
+      "city": "Santa Cruz",
+      "country": "Bolivia"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Ramón Tahuichi Aguilera",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/ESTADIORAMONAGUILERACOSTAS.jpg/960px-ESTADIORAMONAGUILERACOSTAS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:ESTADIORAMONAGUILERACOSTAS.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "9999",
+    "name": "Boston River",
+    "venue": "Campeones Olímpicos",
+    "images": [],
+    "address": {
+      "city": "Florida",
+      "country": "Uruguay"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "4811",
+    "name": "Caracas FC",
+    "venue": "Estadio Olímpico de la UCV",
+    "images": [],
+    "address": {
+      "city": "Caracas",
+      "country": "Venezuela"
+    },
+    "photo": {
+      "stadium": "Estadio Olímpico de la UCV",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "3372",
+    "name": "Cienciano del Cusco",
+    "venue": "Estadio Inca Garcilaso de la Vega",
+    "images": [],
+    "address": {
+      "city": "Cusco",
+      "country": "Peru"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "2675",
+    "name": "Club Olimpia",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "4133",
+    "name": "Cobresal",
+    "venue": "Estadio El Cobre",
+    "images": [],
+    "address": {
+      "city": "El Salvador",
+      "country": "Chile"
+    },
+    "photo": {
+      "stadium": "Estadio El Cobre",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Fotoestadio.jpg/960px-Fotoestadio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Fotoestadio.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "1007",
+    "name": "Defensor Sporting",
+    "venue": "Estadio Luis Franzini",
+    "images": [],
+    "address": {
+      "city": "Montevideo",
+      "country": "Uruguay"
+    },
+    "photo": {
+      "stadium": "Estadio Luis Franzini",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Estadio_Luis_Franzini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Luis_Franzini.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "HTTP Error 429: Too many requests. Please contact the Wikimedia SRE team at noc@wikimedia.org and refer to this message. (daab851)"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "4812",
+    "name": "Deportivo Cuenca",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "21819",
+    "name": "Deportivo Garcilaso",
+    "venue": "Estadio Inca Garcilaso de la Vega",
+    "images": [],
+    "address": {
+      "city": "Cusco",
+      "country": "Peru"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "22517",
+    "name": "Deportivo Recoleta",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "17702",
+    "name": "Deportivo Riestra",
+    "venue": "Guillermo Laza",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6273",
+    "name": "Grêmio",
+    "venue": "Arena do Grêmio",
+    "images": [],
+    "address": {
+      "city": "Porto Alegre",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Arena do Grêmio",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Arena_do_Gr%C3%AAmio_2014.jpg/960px-Arena_do_Gr%C3%AAmio_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Arena_do_Gr%C3%AAmio_2014.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "9497",
+    "name": "Guabirá",
+    "venue": "Estadio Gilberto Parada",
+    "images": [],
+    "address": {
+      "city": "Montero",
+      "country": "Bolivia"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "20889",
+    "name": "Independiente Petrolero",
+    "venue": "Estadio Olímpico Patria",
+    "images": [],
+    "address": {
+      "city": "Cochabamba",
+      "country": "Bolivia"
+    },
+    "photo": {
+      "stadium": "Estadio Olímpico Patria",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Estadioolimpicopatria.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadioolimpicopatria.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "21843",
+    "name": "Libertad (Ecuador)",
+    "venue": "Estadio Federativo Reina del Cisne",
+    "images": [],
+    "address": {
+      "city": "Loja",
+      "country": "Ecuador"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "18439",
+    "name": "Macará",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "7312",
+    "name": "Melgar",
+    "venue": "Estadio Monumental de la UNSA",
+    "images": [],
+    "address": {
+      "city": "Arequipa",
+      "country": "Peru"
+    },
+    "photo": {
+      "stadium": "Estadio Monumental de la UNSA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/OutsideUNSA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:OutsideUNSA.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "13481",
+    "name": "Metropolitanos",
+    "venue": "Estadio Olímpico de la UCV",
+    "images": [],
+    "address": {
+      "city": "Caracas",
+      "country": "Venezuela"
+    },
+    "photo": {
+      "stadium": "Estadio Olímpico de la UCV",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg/960px-Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Ol%C3%ADmpico_%28Caracas%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6041",
+    "name": "Monagas SC",
+    "venue": "Estadio Monumental de Maturín",
+    "images": [],
+    "address": {
+      "city": "Maturin",
+      "country": "Venezuela"
+    },
+    "photo": {
+      "stadium": "Estadio Monumental de Maturín",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Estadio_Monumental_de_Matur%C3%ADn.2.jpg/960px-Estadio_Monumental_de_Matur%C3%ADn.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Monumental_de_Matur%C3%ADn.2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "19002",
+    "name": "Montevideo City Torque",
+    "venue": "Estadio Luis Franzini",
+    "images": [],
+    "address": {
+      "city": "Montevideo",
+      "country": "Uruguay"
+    },
+    "status": "ESPN venue requires independent confirmation"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "5584",
+    "name": "Nacional Asunción",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "20695",
+    "name": "Orense",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "4422",
+    "name": "Palestino",
+    "venue": "Estadio Municipal de La Cisterna",
+    "images": [],
+    "address": {
+      "city": "Santiago",
+      "country": "Chile"
+    },
+    "photo": {
+      "stadium": "Estadio Municipal de La Cisterna",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Estadio_Municipal_de_La_Cisterna_Palestino_v_Deportes_Copiap%C3%B3_20230730_01.jpg/960px-Estadio_Municipal_de_La_Cisterna_Palestino_v_Deportes_Copiap%C3%B3_20230730_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Municipal_de_La_Cisterna_Palestino_v_Deportes_Copiap%C3%B3_20230730_01.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "9903",
+    "name": "Racing (Montevideo)",
+    "venue": "Parque Osvaldo Roberto",
+    "images": [],
+    "address": {
+      "city": "Montevideo",
+      "country": "Uruguay"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "15",
+    "name": "Racing Club",
+    "venue": "Presidente Perón (Cilindro de Avellaneda)",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "El Cilindro",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Racing_Club_vs._Corinthians_-_CONMEBOL_Sudamericana_2024.jpg/960px-Racing_Club_vs._Corinthians_-_CONMEBOL_Sudamericana_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Racing_Club_vs._Corinthians_-_CONMEBOL_Sudamericana_2024.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "6079",
+    "name": "Red Bull Bragantino",
+    "venue": "Estádio Municipal Cicero de Souza Marques",
+    "images": [],
+    "address": {
+      "city": "Bragança Paulista",
+      "country": "Brazil"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "16",
+    "name": "River Plate",
+    "venue": "Estadio Más Monumental",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio Monumental (Buenos Aires)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Estadio_mas_monumental.jpg/960px-Estadio_mas_monumental.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_mas_monumental.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "22137",
+    "name": "San Antonio Bulo Bulo",
+    "venue": "Estadio Félix Capriles",
+    "images": [],
+    "address": {
+      "city": "Cochabamba",
+      "country": "Bolivia"
+    },
+    "photo": {
+      "stadium": "Estadio Félix Capriles",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Estadio_Departamental_F%C3%A9lix_Capriles_5.jpg/960px-Estadio_Departamental_F%C3%A9lix_Capriles_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Departamental_F%C3%A9lix_Capriles_5.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "18",
+    "name": "San Lorenzo",
+    "venue": "Estadio Pedro Bidegain",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "photo": {
+      "stadium": "Estadio Pedro Bidegain",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Platea_Este_Nuevo_Gasometro_1.jpg/960px-Platea_Este_Nuevo_Gasometro_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Platea_Este_Nuevo_Gasometro_1.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "2674",
+    "name": "Santos",
+    "venue": "Estádio Cícero Pompeu de Toledo",
+    "images": [],
+    "address": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Estádio Cícero Pompeu de Toledo",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Est%C3%A1dio_do_Morumbi.jpg/960px-Est%C3%A1dio_do_Morumbi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Morumbi.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "7466",
+    "name": "Sportivo Trinidense",
+    "venue": null,
+    "images": [],
+    "address": {},
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "2026",
+    "name": "São Paulo",
+    "venue": "Estádio Cícero Pompeu de Toledo",
+    "images": [],
+    "address": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estádio do Morumbi",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Est%C3%A1dio_do_Morumbi.jpg/960px-Est%C3%A1dio_do_Morumbi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Est%C3%A1dio_do_Morumbi.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "venueSource": "https://www.saopaulofc.net/estrutura/morumbis/",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "7767",
+    "name": "Tigre",
+    "venue": "Monumental de Victoria (José Dellagiovanna)",
+    "images": [],
+    "address": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Estadio José Dellagiovanna",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tigre_estadio_tribuna_peron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Tigre_estadio_tribuna_peron.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "4139",
+    "name": "Universidad de Chile",
+    "venue": "Estadio Nacional Julio Martínez Prádanos",
+    "images": [],
+    "address": {
+      "city": "Santiago",
+      "country": "Chile"
+    },
+    "photo": {
+      "stadium": "Estadio Nacional Julio Martínez Prádanos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg/960px-Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Inicio_del_partido_Chile_-_Uruguay%2C_Copa_Am%C3%A9rica_Chile_2015.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "conmebol.sudamericana",
+    "id": "3454",
+    "name": "Vasco da Gama",
+    "venue": "Estádio São Januário",
+    "images": [],
+    "address": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil"
+    },
+    "photo": {
+      "stadium": "Estádio São Januário",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Estadio_sao_januario_cropp.jpg/960px-Estadio_sao_januario_cropp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_sao_januario_cropp.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "349",
+    "name": "AFC Bournemouth",
+    "venue": "Vitality Stadium",
+    "images": [],
+    "address": {
+      "city": "Bournemouth",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Vitality Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Deancourt_14092013_vblackpool.jpg/960px-Deancourt_14092013_vblackpool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Deancourt_14092013_vblackpool.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "359",
+    "name": "Arsenal",
+    "venue": "Emirates Stadium",
+    "images": [],
+    "address": {
+      "city": "London",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Emirates Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/London_Emirates_Stadium_arsenal.jpg/960px-London_Emirates_Stadium_arsenal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "362",
+    "name": "Aston Villa",
+    "venue": "Villa Park",
+    "images": [],
+    "address": {
+      "city": "Birmingham",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Villa Park",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Birmingham_aston_villa_park_stadium.jpg/960px-Birmingham_aston_villa_park_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "337",
+    "name": "Brentford",
+    "venue": "Gtech Community Stadium",
+    "images": [],
+    "address": {
+      "city": "Brentford",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Gtech Community Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Brentford_Community_Stadium_2020.jpg/960px-Brentford_Community_Stadium_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Brentford_Community_Stadium_2020.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "331",
+    "name": "Brighton & Hove Albion",
+    "venue": "American Express Stadium",
+    "images": [],
+    "address": {
+      "city": "Falmer",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "American Express Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Amex_Community_Stadium.jpg/960px-Amex_Community_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Amex_Community_Stadium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "363",
+    "name": "Chelsea",
+    "venue": "Stamford Bridge",
+    "images": [],
+    "address": {
+      "city": "London",
+      "country": "England"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Stamford Bridge (stadium)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/London_Stamford_Bridge.jpg/960px-London_Stamford_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Stamford_Bridge.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "388",
+    "name": "Coventry City",
+    "venue": "Coventry Building Society Arena",
+    "images": [],
+    "address": {
+      "city": "Coventry",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Coventry Building Society Arena",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Coventry_Derby_October_2021_-_2.jpg/960px-Coventry_Derby_October_2021_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Coventry_Derby_October_2021_-_2.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "384",
+    "name": "Crystal Palace",
+    "venue": "Selhurst Park",
+    "images": [],
+    "address": {
+      "city": "London",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Selhurst Park",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg/960px-2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_%2853283239217%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "368",
+    "name": "Everton",
+    "venue": "Hill Dickinson Stadium",
+    "images": [],
+    "address": {
+      "city": "Liverpool",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Hill Dickinson Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Hill_Dickinson_Stadium%2C_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg/960px-Hill_Dickinson_Stadium%2C_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium%2C_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "370",
+    "name": "Fulham",
+    "venue": "Craven Cottage",
+    "images": [],
+    "address": {
+      "city": "London",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Craven Cottage",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Craven_Cottage_%28Fulham%29.jpg/960px-Craven_Cottage_%28Fulham%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Craven_Cottage_%28Fulham%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "306",
+    "name": "Hull City",
+    "venue": "The MKM Stadium",
+    "images": [],
+    "address": {
+      "city": "Hull",
+      "country": "England"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "MKM Stadium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Match_day_at_the_KC_Stadium_-_geograph.org.uk_-_1497910.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "source": "https://commons.wikimedia.org/wiki/File:Match_day_at_the_KC_Stadium_-_geograph.org.uk_-_1497910.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "HTTP Error 429: Too many requests. Please contact the Wikimedia SRE team at noc@wikimedia.org and refer to this message. (daab851)"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "373",
+    "name": "Ipswich Town",
+    "venue": "Portman Road",
+    "images": [],
+    "address": {
+      "city": "Ipswich",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Portman Road",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Portman_Road_aerial_%28cropped%29.jpg/960px-Portman_Road_aerial_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Portman_Road_aerial_%28cropped%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "357",
+    "name": "Leeds United",
+    "venue": "Elland Road",
+    "images": [],
+    "address": {
+      "city": "Leeds",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Elland Road",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Leeds_United_-_31559864360.jpg/960px-Leeds_United_-_31559864360.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Leeds_United_-_31559864360.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "364",
+    "name": "Liverpool",
+    "venue": "Anfield",
+    "images": [],
+    "address": {
+      "city": "Liverpool",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Anfield",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Liverpool_anfield_road_stadium.jpg/960px-Liverpool_anfield_road_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Liverpool_anfield_road_stadium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "382",
+    "name": "Manchester City",
+    "venue": "Etihad Stadium",
+    "images": [],
+    "address": {
+      "city": "Manchester",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Etihad Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/City_of_Manchester_Stadium_2023_cropped.jpg/960px-City_of_Manchester_Stadium_2023_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "360",
+    "name": "Manchester United",
+    "venue": "Old Trafford",
+    "images": [],
+    "address": {
+      "city": "Manchester",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Old Trafford",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/960px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "361",
+    "name": "Newcastle United",
+    "venue": "St. James' Park",
+    "images": [],
+    "address": {
+      "city": "Newcastle-upon-Tyne",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "St. James' Park",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Newcastle_st-james-park_stadium.jpg/960px-Newcastle_st-james-park_stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Newcastle_st-james-park_stadium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "393",
+    "name": "Nottingham Forest",
+    "venue": "The City Ground",
+    "images": [],
+    "address": {
+      "city": "Nottingham",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "The City Ground",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/CityGroundFromAboveTrentBridgeCricketGround.jpg/960px-CityGroundFromAboveTrentBridgeCricketGround.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:CityGroundFromAboveTrentBridgeCricketGround.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "366",
+    "name": "Sunderland",
+    "venue": "Stadium of Light",
+    "images": [],
+    "address": {
+      "city": "Sunderland",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Stadium of Light",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sunderland_stadium_of_light.jpg/960px-Sunderland_stadium_of_light.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunderland_stadium_of_light.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "eng.1",
+    "id": "367",
+    "name": "Tottenham Hotspur",
+    "venue": "Tottenham Hotspur Stadium",
+    "images": [],
+    "address": {
+      "city": "London",
+      "country": "England"
+    },
+    "photo": {
+      "stadium": "Tottenham Hotspur Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/960px-London_Tottenham_Hotspur_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:London_Tottenham_Hotspur_Stadium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "96",
+    "name": "Alavés",
+    "venue": "Mendizorrotza",
+    "images": [],
+    "address": {
+      "city": "Vitoria-Gasteiz",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Mendizorrotza",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mendizorrotza_diciembre_2021.jpg/960px-Mendizorrotza_diciembre_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Mendizorrotza_diciembre_2021.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "93",
+    "name": "Athletic Club",
+    "venue": "San Mamés",
+    "images": [],
+    "address": {
+      "city": "Bilbao",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "San Mamés",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Panorama_im_San_Mam%C3%A9s_Stadion.jpg/960px-Panorama_im_San_Mam%C3%A9s_Stadion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Panorama_im_San_Mam%C3%A9s_Stadion.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "1068",
+    "name": "Atlético Madrid",
+    "venue": "Riyadh Air Metropolitano",
+    "images": [],
+    "address": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Riyadh Air Metropolitano",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Atleti_vs_Villarreal_-_September_2025.jpg/960px-Atleti_vs_Villarreal_-_September_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Atleti_vs_Villarreal_-_September_2025.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "83",
+    "name": "Barcelona",
+    "venue": "Spotify Camp Nou",
+    "images": [],
+    "address": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Spotify Camp Nou",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Camp_Nou_aerial.jpg/960px-Camp_Nou_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Camp_Nou_aerial.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "85",
+    "name": "Celta Vigo",
+    "venue": "Balaidos",
+    "images": [],
+    "address": {
+      "city": "Vigo",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Balaidos",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Balaidos_hoy.jpg/960px-Balaidos_hoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "90",
+    "name": "Deportivo",
+    "venue": "Riazor",
+    "images": [],
+    "address": {
+      "city": "La Coruña",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Riazor",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Estadioriazor2023.jpg/960px-Estadioriazor2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadioriazor2023.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "3751",
+    "name": "Elche",
+    "venue": "Estadio Martínez Valero",
+    "images": [],
+    "address": {
+      "city": "Elche",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Estadio Martínez Valero",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg/960px-Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "88",
+    "name": "Espanyol",
+    "venue": "RCDE Stadium",
+    "images": [],
+    "address": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "RCDE Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Stage_Front_Stadium.jpg/960px-Stage_Front_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Stage_Front_Stadium.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "2922",
+    "name": "Getafe",
+    "venue": "Estadio Coliseum",
+    "images": [],
+    "address": {
+      "city": "Getafe",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Estadio Coliseum",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Getafe0-0Lega2018.jpg/960px-Getafe0-0Lega2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Getafe0-0Lega2018.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "1538",
+    "name": "Levante",
+    "venue": "Estadi Ciutat de València",
+    "images": [],
+    "address": {
+      "city": "Manises",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Estadi Ciutat de València",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg/960px-Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "99",
+    "name": "Málaga",
+    "venue": "La Rosaleda",
+    "images": [],
+    "address": {
+      "city": "Malaga",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "La Rosaleda",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/IMG-20220228-WA0055.jpg/960px-IMG-20220228-WA0055.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:IMG-20220228-WA0055.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "97",
+    "name": "Osasuna",
+    "venue": "El Sadar",
+    "images": [],
+    "address": {
+      "city": "Pamplona",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "El Sadar",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Estadio_El_Sadar.jpg/960px-Estadio_El_Sadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_El_Sadar.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "87",
+    "name": "Racing Santander",
+    "venue": "El Sardineros",
+    "images": [],
+    "address": {
+      "city": "Santander",
+      "country": "Spain"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Campos de Sport de El Sardinero",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Fotograf%C3%ADa_Eduardo_Berm%C3%BAdez_para_los_Campos_de_Sport_de_El_Sardinero.jpg/960px-Fotograf%C3%ADa_Eduardo_Berm%C3%BAdez_para_los_Campos_de_Sport_de_El_Sardinero.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Fotograf%C3%ADa_Eduardo_Berm%C3%BAdez_para_los_Campos_de_Sport_de_El_Sardinero.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "101",
+    "name": "Rayo Vallecano",
+    "venue": "Estadio de Vallecas",
+    "images": [],
+    "address": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "244",
+    "name": "Real Betis",
+    "venue": "Estadio La Cartuja",
+    "images": [],
+    "address": {
+      "city": "Sevilla",
+      "country": "Spain"
+    },
+    "status": "no confirmed photo"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "86",
+    "name": "Real Madrid",
+    "venue": "Santiago Bernabéu",
+    "images": [],
+    "address": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "status": "photo source identified",
+    "photo": {
+      "stadium": "Bernabéu (stadium)",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Estadio_Santiago_Bernab%C3%A9u_%E2%80%94_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_%28Intercontinental_Sub-20_2026%29_%E2%80%94_R%C3%A9cord_de_asistencia_en_un_partido_de_juveniles.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_%E2%80%94_Real_Madrid_Juvenil_A_-_Santiago_Wanderers_Sub-20_%28Intercontinental_Sub-20_2026%29_%E2%80%94_R%C3%A9cord_de_asistencia_en_un_partido_de_juveniles.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "89",
+    "name": "Real Sociedad",
+    "venue": "Reale Arena",
+    "images": [],
+    "address": {
+      "city": "San Sebastian",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Reale Arena",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Anoeta_estadioa_31%2C_Donostia%2C_Gipuzkoa%2C_Euskal_Herria.jpg/960px-Anoeta_estadioa_31%2C_Donostia%2C_Gipuzkoa%2C_Euskal_Herria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Anoeta_estadioa_31%2C_Donostia%2C_Gipuzkoa%2C_Euskal_Herria.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "243",
+    "name": "Sevilla",
+    "venue": "Ramón Sánchez Pizjuán Stadium",
+    "images": [],
+    "address": {
+      "city": "Sevilla",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Ramón Sánchez Pizjuán Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_%28Sevilla_FC%29.jpg/960px-2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_%28Sevilla_FC%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_%28Sevilla_FC%29.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "94",
+    "name": "Valencia",
+    "venue": "Mestalla Stadium",
+    "images": [],
+    "address": {
+      "city": "Manises",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Mestalla Stadium",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Mestalla_Stadium_Valencia_vs_Villarreal_2026.7.jpg/960px-Mestalla_Stadium_Valencia_vs_Villarreal_2026.7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:Mestalla_Stadium_Valencia_vs_Villarreal_2026.7.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "soccer",
+    "code": "esp.1",
+    "id": "102",
+    "name": "Villarreal",
+    "venue": "Estadio de la Cerámica",
+    "images": [],
+    "address": {
+      "city": "Villarreal",
+      "country": "Spain"
+    },
+    "photo": {
+      "stadium": "Estadio de la Cerámica",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/ESTADIO3.jpg/960px-ESTADIO3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "source": "https://commons.wikimedia.org/wiki/File:ESTADIO3.jpg",
+      "credit": "Wikimedia Commons"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "1",
+    "name": "Atlanta Hawks",
+    "venue": "State Farm Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1827.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Atlanta",
+      "state": "GA"
+    },
+    "photo": {
+      "stadium": "State Farm Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1827.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/1",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "2",
+    "name": "Boston Celtics",
+    "venue": "TD Garden",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1824.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA"
+    },
+    "photo": {
+      "stadium": "TD Garden",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1824.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/2",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "17",
+    "name": "Brooklyn Nets",
+    "venue": "Prudential Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1826.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Newark",
+      "state": "NJ"
+    },
+    "photo": {
+      "stadium": "Prudential Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1826.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/17",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "30",
+    "name": "Charlotte Hornets",
+    "venue": "Spectrum Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1893.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Charlotte",
+      "state": "NC"
+    },
+    "photo": {
+      "stadium": "Spectrum Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1893.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/30",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "4",
+    "name": "Chicago Bulls",
+    "venue": "United Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1847.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "photo": {
+      "stadium": "United Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1847.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/4",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "5",
+    "name": "Cleveland Cavaliers",
+    "venue": "Rocket Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/3417.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Cleveland",
+      "state": "OH"
+    },
+    "photo": {
+      "stadium": "Rocket Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/3417.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/5",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "6",
+    "name": "Dallas Mavericks",
+    "venue": "American Airlines Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/516.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "photo": {
+      "stadium": "American Airlines Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/516.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/6",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "7",
+    "name": "Denver Nuggets",
+    "venue": "Ball Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/892.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO"
+    },
+    "photo": {
+      "stadium": "Ball Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/892.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/7",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "8",
+    "name": "Detroit Pistons",
+    "venue": "Little Caesars Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/5311.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {},
+    "photo": {
+      "stadium": "Little Caesars Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/5311.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/8",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "9",
+    "name": "Golden State Warriors",
+    "venue": "Oracle Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/2465.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Oakland",
+      "state": "CA",
+      "zipCode": "94621"
+    },
+    "photo": {
+      "stadium": "Oracle Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/2465.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/9",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "10",
+    "name": "Houston Rockets",
+    "venue": "Toyota Center (Houston)",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1394.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Houston",
+      "state": "TX"
+    },
+    "photo": {
+      "stadium": "Toyota Center (Houston)",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1394.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/10",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "11",
+    "name": "Indiana Pacers",
+    "venue": "Gainbridge Fieldhouse",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/2183.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Indianapolis",
+      "state": "IN"
+    },
+    "photo": {
+      "stadium": "Gainbridge Fieldhouse",
+      "image": "https://a.espncdn.com/i/venues/nba/day/2183.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/11",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "12",
+    "name": "LA Clippers",
+    "venue": "crypto.com Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1841.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "photo": {
+      "stadium": "crypto.com Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1841.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/12",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "13",
+    "name": "Los Angeles Lakers",
+    "venue": "crypto.com Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1841.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "photo": {
+      "stadium": "crypto.com Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1841.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/13",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "29",
+    "name": "Memphis Grizzlies",
+    "venue": "FedExForum",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1392.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Memphis",
+      "state": "TN"
+    },
+    "photo": {
+      "stadium": "FedExForum",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1392.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/29",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "14",
+    "name": "Miami Heat",
+    "venue": "Kaseya Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/3438.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Miami",
+      "state": "FL"
+    },
+    "photo": {
+      "stadium": "Kaseya Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/3438.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/14",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "15",
+    "name": "Milwaukee Bucks",
+    "venue": "BMO Harris Bradley Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/2099.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Milwaukee",
+      "state": "WI"
+    },
+    "photo": {
+      "stadium": "BMO Harris Bradley Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/2099.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/15",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "16",
+    "name": "Minnesota Timberwolves",
+    "venue": "Target Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/2029.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Minneapolis",
+      "state": "MN"
+    },
+    "photo": {
+      "stadium": "Target Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/2029.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/16",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "3",
+    "name": "New Orleans Pelicans",
+    "venue": "Smoothie King Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/985.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "New Orleans",
+      "state": "LA"
+    },
+    "photo": {
+      "stadium": "Smoothie King Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/985.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/3",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "18",
+    "name": "New York Knicks",
+    "venue": "Madison Square Garden",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1830.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "photo": {
+      "stadium": "Madison Square Garden",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1830.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/18",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "25",
+    "name": "Oklahoma City Thunder",
+    "venue": "Paycom Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/2559.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Oklahoma City",
+      "state": "OK"
+    },
+    "photo": {
+      "stadium": "Paycom Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/2559.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/25",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "19",
+    "name": "Orlando Magic",
+    "venue": "Kia Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/3432.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Orlando",
+      "state": "FL"
+    },
+    "photo": {
+      "stadium": "Kia Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/3432.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/19",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "20",
+    "name": "Philadelphia 76ers",
+    "venue": "Xfinity Mobile Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1845.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "photo": {
+      "stadium": "Xfinity Mobile Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1845.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/20",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "21",
+    "name": "Phoenix Suns",
+    "venue": "Mortgage Matchup Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1949.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Phoenix",
+      "state": "AZ"
+    },
+    "photo": {
+      "stadium": "Mortgage Matchup Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1949.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/21",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "22",
+    "name": "Portland Trail Blazers",
+    "venue": "Moda Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/3423.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Portland",
+      "state": "OR"
+    },
+    "photo": {
+      "stadium": "Moda Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/3423.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/22",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "23",
+    "name": "Sacramento Kings",
+    "venue": "Sleep Train Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/2247.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Sacramento",
+      "state": "CA"
+    },
+    "photo": {
+      "stadium": "Sleep Train Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/2247.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/23",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "24",
+    "name": "San Antonio Spurs",
+    "venue": "Frost Bank Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/780.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "San Antonio",
+      "state": "TX"
+    },
+    "photo": {
+      "stadium": "Frost Bank Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/780.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/24",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "28",
+    "name": "Toronto Raptors",
+    "venue": "Scotiabank Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1838.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Toronto",
+      "state": "ON"
+    },
+    "photo": {
+      "stadium": "Scotiabank Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1838.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/28",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "26",
+    "name": "Utah Jazz",
+    "venue": "Delta Center",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/3093.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Salt Lake City",
+      "state": "UT"
+    },
+    "photo": {
+      "stadium": "Delta Center",
+      "image": "https://a.espncdn.com/i/venues/nba/day/3093.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/26",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  },
+  {
+    "sport": "basketball",
+    "code": "nba",
+    "id": "27",
+    "name": "Washington Wizards",
+    "venue": "Capital One Arena",
+    "images": [
+      {
+        "alt": "",
+        "height": 1125,
+        "href": "https://a.espncdn.com/i/venues/nba/day/1823.jpg",
+        "rel": [
+          "full",
+          "day"
+        ],
+        "width": 2000
+      }
+    ],
+    "address": {
+      "city": "Washington",
+      "state": "DC"
+    },
+    "photo": {
+      "stadium": "Capital One Arena",
+      "image": "https://a.espncdn.com/i/venues/nba/day/1823.jpg",
+      "source": "https://www.espn.com/nba/team/_/id/27",
+      "credit": "ESPN"
+    },
+    "status": "photo source identified",
+    "imageProbe": "image"
+  }
+]
