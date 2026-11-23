@@ -1,0 +1,2 @@
+En la raíz PulseSport, ejecuta en PowerShell: Expand-Archive -LiteralPath .\PulseSport-cambio-1.5.zip -DestinationPath . -Force
+Después pulsa Sync Now si aparece y Run. Para GitHub: git add .; git commit -m "Agrega torneos colombianos y CONMEBOL"; git push
